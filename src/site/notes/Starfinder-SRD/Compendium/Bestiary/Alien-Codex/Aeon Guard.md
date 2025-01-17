@@ -10,7 +10,7 @@
 >XP 800 CR 3 
 >[[Starfinder-SRD/Compendium/Species/Human/Human\|Human]] [[Starfinder-SRD/Compendium/Classes/Soldier/Soldier\|Soldier]]  
 >LE Medium humanoid (human)
->**Init**: 5; **Senses**: Darkvision 60ft; **Perception**: 8
+>**Init**: 5 **Senses**: Darkvision 60ft **Perception**: 8
 >### Defense
 >---
 >**HP** 48

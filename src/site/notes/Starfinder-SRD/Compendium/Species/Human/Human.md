@@ -13,7 +13,7 @@
 > |**mods**|+2 to any one ability score|
 > |**size**|Medium|
 > |**type**|humanoid (human)|
-> |**Source**|`=this.source`|
+> |**Source**||
 >
 > # vitals
 >
@@ -98,41 +98,34 @@ Human names can be totally new inventions, local traditions, words borrowed from
 
 # Alternate Ability Adjustments
 
-**Source** [_Character Operations Manual pg. 18_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)
 Humans differ greatly as a result of adaptation to living conditions, lineage, and even genetic modifications. The following ability adjustments can be selected instead of the adjustments of +2 to any one ability score found in the _Starfinder Core Rulebook_.
 
 ## Featherlight
 
-**Source** [_Character Operations Manual pg. 18_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)
 Humans who were born in the Diaspora, space stations, generation ships, or other low- or zero-gravity conditions sometimes develop differently. Such humans can be taller and longer-limbed than normal, with less muscle mass. These humans have ability adjustments of +4 Dexterity and –2 Strength.
 
 ## Gravity Dweller
 
-**Source** [_Character Operations Manual pg. 18_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)
 Humans who have adapted to a high-gravity world develop thick musculature over sturdier forms. They spend more of their lives struggling against harsh conditions than learning how to interact with others. These humans have ability adjustments of +2 Strength, +2 Dexterity, and –2 Charisma.
 
 # Alternate Racial Traits
 
-**Source** [_Character Operations Manual pg. 18_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)
 The cultural, genetic, and mystical influences that some humans are subjected to can produce racial traits different from the norm.
 
 ## Adopted
 
-**Source** [_Character Operations Manual pg. 18_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)
 Many humans thrive in racially diverse metropolitan areas, and some individuals are adopted by members of a different species. Humans with this racial trait acquire a deep understanding of their adopted culture and gain a +2 racial bonus to Culture checks to recall knowledge about non-humans and to Disguise checks to appear as a humanoid of another race.
 
 This replaces skilled.
 
 ## Dusk Sight
 
-**Source** [_Character Operations Manual pg. 18_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)
 Humans who live in environments that lack regular exposure to bright natural light, such as the sunset cities of tidally locked Verces or Aballonian underground compounds, adapt to their surroundings as best they can. Humans with this racial trait have low-light vision and a +2 racial bonus to Perception checks.
 
 This replaces skilled.
 
 ## Fortified
 
-**Source** [_Character Operations Manual pg. 18_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)
 Small pockets of humanity eke out a life in environments harsh enough to kill others of their species, and over the span of generations they develop an immunity to these conditions. Humans with this racial trait gain a +2 racial bonus to Fortitude saves against environmental hazards and radiation effects. In addition, they reduce the duration of the sickened and nauseated conditions by 1 round.
 
 This replaces skilled.
