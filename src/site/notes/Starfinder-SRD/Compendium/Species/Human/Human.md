@@ -21,7 +21,7 @@
 > |----|----|
 > |Average Height| 5-7 ft.|
 > |Average Weight| 100-300 lbs.| 
-> |Age of Maturity| P18Y|
+> |Age of Maturity| 18 years|
 > |Maximum Age| 80+2d20 years|
 >
 >![Human-Card-Stats.jpg|ws-med](/img/user/Images/Aliens/Species/Human/Human-Card-Stats.jpg)
@@ -93,7 +93,7 @@ Human names can be totally new inventions, local traditions, words borrowed from
 
 **Average Height** (height:: 5-7 ft.)
 **Average Weight** (weight:: 100-300 lbs.)
-**Age of Maturity** (maturity:: 18 years)
+**Age of Maturity** (maturity:: "18 years")
 **Maximum Age** (age:: 80+2d20 years)
 
 # Alternate Ability Adjustments
