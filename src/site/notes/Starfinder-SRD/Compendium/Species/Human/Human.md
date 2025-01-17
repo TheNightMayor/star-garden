@@ -13,7 +13,7 @@
 > |**mods**|+2 to any one ability score|
 > |**size**|Medium|
 > |**type**|humanoid (human)|
-> |**Source**||
+>
 >
 > # vitals
 >
