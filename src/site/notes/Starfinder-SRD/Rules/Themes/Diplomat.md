@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"cssclasses":null,"dg-publish":true,"permalink":"/starfinder-srd/rules/themes/diplomat/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/starfinder-srd/rules/themes/diplomat/"}
 ---
 
 

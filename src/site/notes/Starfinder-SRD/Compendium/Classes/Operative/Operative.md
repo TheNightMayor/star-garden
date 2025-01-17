@@ -1,5 +1,5 @@
 ---
-{"cssclasses":null,"aliases":["operative","operatives","Operatives","Operative's","operative's"],"tags":null,"dg-publish":true,"dg-hide":true,"permalink":"/starfinder-srd/compendium/classes/operative/operative/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/starfinder-srd/compendium/classes/operative/operative/","hide":true}
 ---
 
 

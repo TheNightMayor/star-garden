@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/player-characters/player-characters/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/campaign/player-characters/player-characters/"}
 ---
 
 

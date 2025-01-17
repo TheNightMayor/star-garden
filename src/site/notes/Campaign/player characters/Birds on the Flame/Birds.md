@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/player-characters/birds-on-the-flame/birds/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/campaign/player-characters/birds-on-the-flame/birds/"}
 ---
 
 

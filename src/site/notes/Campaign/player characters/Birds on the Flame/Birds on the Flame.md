@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"cssclasses":null,"dg-publish":true,"permalink":"/campaign/player-characters/birds-on-the-flame/birds-on-the-flame/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/campaign/player-characters/birds-on-the-flame/birds-on-the-flame/"}
 ---
 
 ### Birds on the Flame

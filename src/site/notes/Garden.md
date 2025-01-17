@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-enable-search":false,"dg-show-file-tree":false,"permalink":"/garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/garden/","tags":["gardenEntry"]}
 ---
 
 FANCY NEW THING
