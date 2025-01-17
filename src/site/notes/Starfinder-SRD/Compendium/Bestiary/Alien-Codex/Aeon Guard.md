@@ -15,7 +15,7 @@
 >---
 >**HP** 48
 >**EAC** 19 **KAC** 22
->[object Object] [object Object] [object Object]
+>[object Object],[object Object],[object Object]
 >### Offense
 >---
 >**Speed**: 20ft.
