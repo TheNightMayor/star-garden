@@ -24,7 +24,6 @@
 >>**Speed**: 20ft.
 >>**Melee**: thunderstrike pulse gauntlet +8; 1d6 + 5 B&So; critical knockdown)
 >
->
 >>[!blank]
 >>**Ranged**: AG assault rifle +11; 1d8 + 3 P or frag grenade II +11 to hit (explode [5ft., 1d8 + 3 P, DC 14]) or incindiary grenade I +11 to hit (explode [5ft., 1d6 F plus 1d4 burn, DC 14]) 
 >>**Offensive Abilities**: [[Starfinder-SRD/Compendium/Classes/Soldier/Fighting Styles/Sharpshoot\|Sharpshoot]], [[Starfinder-SRD/Compendium/Classes/Soldier/Fighting Styles/Sharpshoot#SNIPER’S Aim (EX)\| Sniper's Aim]]
@@ -32,8 +31,8 @@
 >> ### Statistics
 >>---
 >>|STR|DEX|CON|INT|WIS|CHA|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|2|4|1|1|1|1|
+>>|:---:|:---:|:---:|:---:|:---:|:---:|
+>>|2|4|1|1|1|1|
 >>**Skills**: [object Object],[object Object],[object Object],[object Object]
 >>**Languages**: azlanti
 >>**Gear**: [[Starfinder-SRD/Compendium/Items/Armor/Heavy Armor/Aeon Guard Battle Dress#Aeon Guard, Battle Dress (Trooper) \|AG Trooper Battle Dress]] [[Starfinder-SRD/Compendium/Items/Magic Items/Aeon Stone/Aeon Stone#Aeon Stone, Clear Spindle \| clear spindle aeon stone]], [[Starfinder-SRD/Compendium/Items/Armor/Armor Upgrades/Jump Jets\|Jump Jets]]), [[Starfinder-SRD/Compendium/Items/Armaments/Longarms/Aeon Guard Rifle#Aeon Guard, Assault Rifle \| AG assault rifle]] with 4 magazines (100 [[Starfinder-SRD/Compendium/Items/Ammunition/Rounds#Rounds, Longarm and Sniper \|longarm rounds]]), [[Starfinder-SRD/Compendium/Items/Armaments/Advanced Melee/One Handed - Advanced Melee/Pulse Gauntlet#Pulse Gauntlet, Thunderstrike\|Thunderstrike pulse gauntlet]] with 2 [[Starfinder-SRD/Compendium/Items/Ammunition/Battery#Battery, Standard\|Batteries]], [[Starfinder-SRD/Compendium/Items/Armaments/Grenades/Frag Grenade#Frag Grenade, Mk 2 \| Frag grenade mk 2]], [[Starfinder-SRD/Compendium/Items/Armaments/Grenades/Incendiary Grenade#Incendiary Grenade, Mk 1 \| Incindiary grenade mk 1]]
