@@ -21,7 +21,7 @@
 > |----|----|
 > |Average Height| 5-7 ft.|
 > |Average Weight| 100-300 lbs.| 
-> |Age of Maturity| P18Y |
+> |Age of Maturity| P18Y|
 > |Maximum Age| 80+2d20 years|
 >
 >![Human-Card-Stats.jpg|ws-med](/img/user/Images/Aliens/Species/Human/Human-Card-Stats.jpg)
