@@ -31,8 +31,7 @@
 >>
 >> ### Statistics
 >>---
->>
-|STR|DEX|CON|INT|WIS|CHA|
+>>|STR|DEX|CON|INT|WIS|CHA|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2|4|1|1|1|1|
 >>**Skills**: [object Object],[object Object],[object Object],[object Object]
