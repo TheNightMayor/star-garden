@@ -30,7 +30,7 @@ body {
     //  }
 }
 
-main::before {
+body::before {
   background: 
     radial-gradient(circle at 90% 70%,transparent 0px 500px, rgba(75, 153, 255, 0.05) 500px 501px, transparent 501px 100%),
     radial-gradient(1000px 900px at 90% 70%,transparent 0px 500px,  rgb(75, 153, 255, 0.05) 500px 501px, transparent 501px 100%),
