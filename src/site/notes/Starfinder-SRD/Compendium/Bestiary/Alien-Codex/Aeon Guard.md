@@ -19,10 +19,10 @@
 >### Offense
 >---
 >**Speed**: 20ft.
->**Melee**: thunderstrike pulse gauntlet +8; 1d6 + 5 B&So; critical knockdown)
+>**Melee**: thunderstrike pulse gauntlet +8 (1d6 + 5 B&So; critical knockdown)
 >
 >
->**Ranged**: AG assault rifle +11; 1d8 + 3 P or frag grenade II +11 to hit (explode [5ft., 1d8 + 3 P, DC 14]) or incindiary grenade I +11 to hit (explode [5ft., 1d6 F plus 1d4 burn, DC 14]) 
+>**Ranged**: AG assault rifle +11 (1d8 + 3 P) or frag grenade II +11 (explode [5ft., 1d8 + 3 P, DC 14]) or incindiary grenade I +11 (explode [5ft., 1d6 F plus 1d4 burn, DC 14]) 
 >**Offensive Abilities**: [[Starfinder-SRD/Compendium/Classes/Soldier/Fighting Styles/Sharpshoot\|Sharpshoot]], [[Starfinder-SRD/Compendium/Classes/Soldier/Fighting Styles/Sharpshoot#SNIPER’S Aim (EX)\| Sniper's Aim]]
 > ### Statistics
 >---
