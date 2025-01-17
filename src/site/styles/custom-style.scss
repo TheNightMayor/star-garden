@@ -30,7 +30,7 @@ body {
     //  }
 }
 
-main>p, main>.callout {
+main>p, main>.callout, #tooltip-content {
   padding: 2.5%;
   clip-path: polygon(
     20px 0px,
