@@ -15,7 +15,7 @@
 >---
 >**HP** 48
 >**EAC** 19 **KAC** 22
->**Fort:** 5 **Ref:** 3 **Will:** 4
+>[object Object]
 >### Offense
 >---
 >**Speed**: 20ft.
@@ -30,7 +30,7 @@
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|2|4|1|1|1|1|
 >
->**Skills**: <span><ul class="dataview dataview-ul dataview-result-object-ul"><li class="dataview dataview-li dataview-result-object-li">athletics: <span>8</span></li></ul></span> 
+>**Skills**: [object Object] 
 >**Languages**: azlanti
 >**Gear**: [[Starfinder-SRD/Compendium/Items/Armor/Heavy Armor/Aeon Guard Battle Dress#Aeon Guard, Battle Dress (Trooper) \|AG Trooper Battle Dress]] [[Starfinder-SRD/Compendium/Items/Magic Items/Aeon Stone/Aeon Stone#Aeon Stone, Clear Spindle \| clear spindle aeon stone]], [[Starfinder-SRD/Compendium/Items/Armor/Armor Upgrades/Jump Jets\|Jump Jets]]), [[Starfinder-SRD/Compendium/Items/Armaments/Longarms/Aeon Guard Rifle#Aeon Guard, Assault Rifle \| AG assault rifle]] with 4 magazines (100 [[Starfinder-SRD/Compendium/Items/Ammunition/Rounds#Rounds, Longarm and Sniper \|longarm rounds]]), [[Starfinder-SRD/Compendium/Items/Armaments/Advanced Melee/One Handed - Advanced Melee/Pulse Gauntlet#Pulse Gauntlet, Thunderstrike\|Thunderstrike pulse gauntlet]] with 2 [[Starfinder-SRD/Compendium/Items/Ammunition/Battery#Battery, Standard\|Batteries]], [[Starfinder-SRD/Compendium/Items/Armaments/Grenades/Frag Grenade#Frag Grenade, Mk 2 \| Frag grenade mk 2]], [[Starfinder-SRD/Compendium/Items/Armaments/Grenades/Incendiary Grenade#Incendiary Grenade, Mk 1 \| Incindiary grenade mk 1]]
 >**Source**: Alien Archive
