@@ -28,3 +28,55 @@ body {
     //   color: black;
     //  }
 }
+nav.filetree-sidebar {
+  clip-path: polygon(
+    0% 0px,
+    0px 0%,
+    calc(100% - 20px) 0px,
+    100% 20px,
+    100% calc(100% - 20px),
+    calc(100% - 20px) 100%,
+    0 100%,
+    0 0
+  );
+  background: 
+  linear-gradient(
+    225deg, 
+    rgba(137, 222, 255, 0.5) 15px 16px,
+    transparent 16px 21px,
+    rgba(137, 222, 255, 0.5) 21px 22px,
+    transparent 23px
+  ),
+  linear-gradient(
+      315deg,
+      rgba(137, 222, 255, 0.5) 15px 15px,
+      transparent 16px,
+      rgba(137, 222, 255, 0.5) 17px 18px,
+      transparent 18px
+    ),
+    linear-gradient(
+      to top,
+      rgba(137, 222, 255) 0 0px,
+      transparent 1px 3px,
+      rgba(137, 222, 255) 3px 3px,
+      transparent 4px
+    ),
+    linear-gradient(
+      to bottom,
+      transparent 8px,
+      rgba(137, 222, 255) 8px 8px,
+      transparent 9px
+    ),
+    linear-gradient(to left, rgba(137, 222, 255) 0px 1px, transparent 2px),
+    linear-gradient(
+      to left,
+      rgba(137, 222, 255, 0.1) 1% 10px,
+      transparent 10px 100%
+    ),
+    radial-gradient(70% 100px at bottom, rgba(137, 222, 255, 0.2), transparent),
+    radial-gradient(
+      40% 100px at top,
+      rgba(137, 222, 255, 0.2) 1%,
+      rgba(0, 9, 29) 50%
+    );
+}
