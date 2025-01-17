@@ -32,7 +32,8 @@ body {
 }
 
 div.active-note {
-    background-color: cornflowerblue !important;
+    background: transparent;
+    box-shadow: 2px 3px 4px 0px steelblue;
 }
 
 main, main>div.callout, #tooltip-content {
