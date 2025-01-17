@@ -115,17 +115,14 @@ The cultural, genetic, and mystical influences that some humans are subjected to
 ## Adopted
 
 Many humans thrive in racially diverse metropolitan areas, and some individuals are adopted by members of a different species. Humans with this racial trait acquire a deep understanding of their adopted culture and gain a +2 racial bonus to Culture checks to recall knowledge about non-humans and to Disguise checks to appear as a humanoid of another race.
-
 This replaces skilled.
 
 ## Dusk Sight
 
 Humans who live in environments that lack regular exposure to bright natural light, such as the sunset cities of tidally locked Verces or Aballonian underground compounds, adapt to their surroundings as best they can. Humans with this racial trait have low-light vision and a +2 racial bonus to Perception checks.
-
 This replaces skilled.
 
 ## Fortified
 
 Small pockets of humanity eke out a life in environments harsh enough to kill others of their species, and over the span of generations they develop an immunity to these conditions. Humans with this racial trait gain a +2 racial bonus to Fortitude saves against environmental hazards and radiation effects. In addition, they reduce the duration of the sickened and nauseated conditions by 1 round.
-
 This replaces skilled.
