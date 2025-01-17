@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/","contentClasses":"sfs","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"dg-content-classes":"sfs","permalink":"/garden/","contentClasses":"sfs","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-[[Campaign/player characters/player characters\|player characters]]
+FANCY NEW THING
