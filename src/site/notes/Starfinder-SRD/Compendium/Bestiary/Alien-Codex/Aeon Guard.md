@@ -4,7 +4,6 @@
 
 
 >[!statblocks|bg-black columns]
->
 >>[!blank]
 >>![Aeon Guard.png|cover right circle htiny wtiny p+t](/img/user/Images/Aliens/Enemies/humanoid/aeon%20guard/aeon%20guard.png)
 >># Aeon Guard 
