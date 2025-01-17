@@ -1,4 +1,21 @@
 body {
+    background: 
+      conic-gradient(from 210deg at 85% 10%, transparent 0 20deg, rgba(0, 0, 0, 0.177) 20deg 30deg,transparent 20deg 200deg, rgba(0, 0, 0, 0.221) 300deg),
+      conic-gradient(from 220deg at 65% 60%, transparent 0 60deg, rgba(0, 0, 0, 0.221) 45deg),
+      radial-gradient(circle at 5% 95%, rgba(38, 0, 0, 0.67) 100px, transparent 700px),
+      repeating-linear-gradient(160deg, black 50px, rgba(15, 112, 192, 0.139) 600px, rgba(74, 74, 179, 0.208) 900px, black),
+      repeating-linear-gradient(180deg, black 50px, rgba(15, 112, 192, 0.139) 600px, rgba(74, 74, 179, 0.208), transparent),
+      radial-gradient(circle at 95% 95%, rgba(82, 28, 1, 0.743) 100px, transparent 300px),
+      linear-gradient(70deg in hsl shorter hue, rgba(91, 2, 2, 0.319), rgba(2, 2, 76, 0.615), transparent),
+      radial-gradient(circle at 80% 160%, transparent 0px 1400px, white 1400px 1401px, transparent 1401px),
+      radial-gradient(circle at 40% 220%, transparent 0px 2000px, white 2000px 2001px, transparent 2001px),
+      radial-gradient(circle at 100% 220%, transparent 0px 1400px, white 1400px 1401px, transparent 1401px),
+      radial-gradient(at 90% 80%, steelblue 0% 5%, transparent 10%),
+      radial-gradient(at 70% 70%, steelblue 0% 2%, transparent 15%),
+      radial-gradient(circle at 90% 50%, steelblue 0% 2%, transparent 25%),
+      radial-gradient(at 70% 80%, steelblue 0% 2%, transparent 15%),
+      radial-gradient(at 70% 90%, steelblue 0% 3%,darkblue 8%, transparent 20%),
+      radial-gradient(at 80% 90%, steelblue 0% 7%,darkblue 8%, transparent 25%);
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
