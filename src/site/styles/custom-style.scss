@@ -1,3 +1,4 @@
+
 body {
     color: cornflowerblue;
     background: 
@@ -33,7 +34,12 @@ main.wide.content {
   max-width: none;
 }
 
-main>p, main>.callout, #tooltip-content {
+div.active-note {
+    background: transparent !important;
+    box-shadow: 2px 3px 4px 0px steelblue;
+}
+
+main, main>div.callout, #tooltip-content {
   padding: 2.5%;
   clip-path: polygon(
     20px 0px,
