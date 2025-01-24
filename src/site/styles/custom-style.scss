@@ -29,6 +29,9 @@ body {
     //   color: black;
     //  }
 }
+main.wide.content {
+  max-width: none;
+}
 
 main>p, main>.callout, #tooltip-content {
   padding: 2.5%;
