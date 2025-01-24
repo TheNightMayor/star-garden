@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/chapters/optional/optional/"}
+{"dg-publish":true,"permalink":"/campaign/chapters/optional/optional/","contentClasses":"wide"}
 ---
 
 
