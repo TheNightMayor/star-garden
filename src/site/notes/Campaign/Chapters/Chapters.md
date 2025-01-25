@@ -69,16 +69,80 @@
 >>|**Location**|Icefront|
 >>
 >>We investigate an uninhabited planet called *Icefront* seeking a Scoured Stars Relic
-
-
-| Title                                 | sfss# | Level | Initial Summary                                                                      | Conclusion                                                                          |
-| :------------------------------------ | :---- | :---- | :----------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
-| [[5. Reclaiming the Time-Lost Tear \|5. Reclaiming the Time-Lost Tear ]] | 1-17  | 5-8   |                                                                                      |                                                                                     |
-| [[Campaign/Chapters/6. The Scoured Stars Invasion/6. The Scoured Stars Invasion\|6. The Scoured Stars Invasion]]     | 1-99  | 1-8   |                                                                                      |                                                                                     |
-| [[Campaign/Chapters/optional/1-23 Return to Sender/1-23 Return to Sender\|1-23 Return to Sender]]             | 1-23  | 5-8   |                                                                                      |                                                                                     |
-| [[Campaign/Chapters/7. Truth of the Seeker/7. Truth of the Seeker\|7. Truth of the Seeker]]            | 1-26  | 3-6   |                                                                                      |                                                                                     |
-| [[Campaign/Chapters/10. Honorbound Emissaries/10. Honorbound Emissaries\|10. Honorbound Emissaries]]         | 1-29  | 7-10  |                                                                                      |                                                                                     |
-| [[Campaign/Chapters/8. Treading History's Folly/8. Treading History's Folly\|8. Treading History's Folly]]       | 1-31  | 3-6   |                                                                                      |                                                                                     |
-| [[Campaign/Chapters/9. Heart of the Foe/9. Heart of the Foe\|9. Heart of the Foe]]               | 1-34  | 3-6   |                                                                                      |                                                                                     |
-| [[Campaign/Chapters/optional/1-38 The Many Minds of Historia/1-38 The Many Minds of Historia\|1-38 The Many Minds of Historia]]   | 1-38  | 5-8   |                                                                                      |                                                                                     |
-| [[Campaign/Chapters/11. The Herald's War/11. The Herald's War\|11. The Herald's War]]              | 1-39  | 7-10  |                                                                                      |                                                                                     |
+>
+>>[!infobox|n-th]
+>># [[Campaign/Chapters/5. Time Lost Tear/5. Time Lost Tear\|5. Time Lost Tear]]
+>>![Time Lost Tear.png](/img/user/Images/Art/landscapes/Time%20Lost%20Tear.png)
+>>
+>>|||
+>>|--:|:--|
+>>|**level**|5-6|
+>>|**Location**|The Repository|
+>>
+>>On a tip from Naarma, we seek the Scoured Stars Relic on a heat-blasted moon of a planet in the Vast called Izal-4
+>
+>>[!infobox|n-th]
+>># [[Campaign/Chapters/6. The Scoured Stars Invasion/6. The Scoured Stars Invasion\|6. The Scoured Stars Invasion]]
+>>![Invasion.png](/img/user/Images/Art/landscapes/Invasion.png)
+>>
+>>|||
+>>|--:|:--|
+>>|**level**|6-7|
+>>|**Location**|Scoured Stars|
+>>
+>>We spearhead an initiative to invade the Scoured Stars System! If any of our people are still breathing, we are going to find them.
+>
+>>[!infobox|n-th]
+>># [[Campaign/Chapters/7. Truth of the Seeker/7. Truth of the Seeker\|7. Truth of the Seeker]]
+>>![Truth of the Seeker.png](/img/user/Images/Art/landscapes/Truth%20of%20the%20Seeker.png)
+>>
+>>|||
+>>|--:|:--|
+>>|**level**|7-8|
+>>|**Location**|The Idari|
+>>
+>>A search for the First Seeker
+>
+>>[!infobox|n-th]
+>># [[Campaign/Chapters/8. Treading History's Folly/8. Treading History's Folly\|8. Treading History's Folly]]
+>>![Treading History.png](/img/user/Images/Art/landscapes/Treading%20History.png)
+>>
+>>|||
+>>|--:|:--|
+>>|**level**|8-9|
+>>|**Location**|Kukanau 2b|
+>>
+>>We follow up on old leads
+>
+>>[!infobox|n-th]
+>># [[Campaign/Chapters/9. Heart of the Foe/9. Heart of the Foe\|9. Heart of the Foe]]
+>>![Heart of the Foe.png](/img/user/Images/Art/landscapes/Heart%20of%20the%20Foe.png)
+>>
+>>|||
+>>|--:|:--|
+>>|**level**|9-10|
+>>|**Location**|Rax|
+>>
+>>We search a seemingly abandoned world for the mysterious Jinsul
+>
+>>[!infobox|n-th]
+>># [[Campaign/Chapters/10. Honorbound Emissaries/10. Honorbound Emissaries\|10. Honorbound Emissaries]]
+>>![Honorbound.png](/img/user/Images/Art/landscapes/Honorbound.png)
+>>
+>>|||
+>>|--:|:--|
+>>|**level**|10-11|
+>>|**Location**|Saaruk-Ruaan|
+>>
+>>We explore an uncharted system in search of an artist
+>
+>>[!infobox|n-th]
+>># [[Campaign/Chapters/11. The Herald's War/11. The Herald's War\|11. The Herald's War]]
+>>![Heralds War.png](/img/user/Images/Art/landscapes/Heralds%20War.png)
+>>
+>>|||
+>>|--:|:--|
+>>|**level**|11-12|
+>>|**Location**|Saaruk-Ruaan|
+>>
+>>We break a siege in hopes of ending a massive battle
