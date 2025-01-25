@@ -25,7 +25,7 @@
 >>
 >>The iconics are sent to secure an artificial moon
 
->[!columns|txt-s] Our current Objectives
+>[!columns|3 txt-s] Our current Objectives
 >>[!infobox|n-th]
 >># [[Campaign/Chapters/1. The Commencement/1. The Commencement\|1. The Commencement]]
 >>![Commencement.png](/img/user/Images/Art/landscapes/Commencement.png)
