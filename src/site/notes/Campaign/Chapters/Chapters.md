@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/chapters/chapters/"}
+{"dg-publish":true,"permalink":"/campaign/chapters/chapters/","contentClasses":"cards"}
 ---
 
 >[!columns|txt-s] Backstory and Tutorial
