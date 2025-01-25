@@ -30,6 +30,11 @@ body {
     //   color: black;
     //  }
 }
+
+div.callout-content>p {
+  display: none;
+}
+
 main.wide.content {
   max-width: none;
 }
