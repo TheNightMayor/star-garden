@@ -11,6 +11,7 @@
 >>|--|--|
 >>|**level**|1|
 >>|**Location**|Absalom Station|
+>>
 >>The Iconics go on five short missions to investigate missing starfinders.
 >
 >>[!infobox|n-th]
@@ -21,6 +22,7 @@
 >>|--|--|
 >>|**level**|4|
 >>|**location**|Salvation's End|
+>>
 >>The iconics are sent to secure an artificial moon
 
 >[!columns|txt-s] Our current Objectives
@@ -32,6 +34,7 @@
 >>|--:|:--|
 >>|**level**|1-2|
 >>|**Location**|Absalom Station|
+>>
 >>We are invited to attend a gala and hobnob with bigwigs of the Pact Worlds
 >
 >>[!infobox|n-th]
@@ -42,6 +45,7 @@
 >>|--:|:--|
 >>|**level**|2-3|
 >>|**Location**|Absalom Station|
+>>
 >>Our first mission! each of the four faction heads has a task for us.
 >
 >>[!infobox|n-th]
@@ -52,6 +56,7 @@
 >>|--:|:--|
 >>|**level**|3-4|
 >>|**Location**|Athaeum|
+>>
 >>We seek answers within a *Mindmaze* to learn how to penetrate the barrier around the Scoured Stars System
 >
 >>[!infobox|n-th]
@@ -62,6 +67,7 @@
 >>|--:|:--|
 >>|**level**|4-5|
 >>|**Location**|Icefront|
+>>
 >>We investigate an uninhabited planet called *Icefront* seeking a Scoured Stars Relic
 
 
