@@ -3,7 +3,7 @@
 ---
 
 # Active Players
-/dg
+/pub
 
 | INSP | Player       | XP  |     | Character               | Lvl | Character         | Lvl | Character              | Lvl |
 | ---- | ------------ | --- | --- | ----------------------- | --- | ----------------- | --- | ---------------------- | --- |
