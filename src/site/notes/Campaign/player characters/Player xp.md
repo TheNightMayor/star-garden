@@ -3,7 +3,6 @@
 ---
 
 # Active Players
-/pub
 
 | INSP | Player       | XP  |     | Character               | Lvl | Character         | Lvl | Character              | Lvl |
 | ---- | ------------ | --- | --- | ----------------------- | --- | ----------------- | --- | ---------------------- | --- |
@@ -11,7 +10,7 @@
 | 2    | [[Falcon\|Falcon]]   | 14  |     | [[Campaign/player characters/Pixi/Pixi Sprocket\|Pixi]] | 4   | [[Campaign/player characters/Dr. Rivers/Dr. Rivers\|Dr. Rivers]]    | 2   | [[Campaign/player characters/Birds on the Flame/Birds on the Flame\|Birds on the Flame]] | 2   |
 | 1    | [[Digo\|Digo]]     | 12  |     | [[Campaign/player characters/rev/rev\|rev]]                 | 4   | [[Campaign/player characters/The Eaten One/The Eaten One\|The Eaten One]] | 2   |                        |     |
 | 1    | [[James\|James]]    | 7   |     | [[Hayho-Aru\|Hayho-Aru]]           | 2   |                   |     |                        |     |
-/pub
+
 # Inactive Players
 
 | INSP | Player      | XP  |     | Character  | lvl | Character | lvl | Character | lvl |
