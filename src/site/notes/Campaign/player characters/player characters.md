@@ -10,21 +10,21 @@
 > style: height: 375px; margin-top: -130px;
 > ```
 
->[!kith|clean]- [[Campaign/player characters/Dr. Rivers/Dr. Rivers\|Dr. Rivers]] (Falcon) _[[Starfinder-SRD/Compendium/Species/Human/Human\|Human]]  Scholar [[Starfinder-SRD/Compendium/Classes/Technomancer/Technomancer\|Technomancer]] 1_
+>[!kith|clean]- [[Dr. Rivers\|Dr. Rivers]] (Falcon) _[[Starfinder-SRD/Compendium/Species/Human/Human\|Human]]  Scholar [[Starfinder-SRD/Compendium/Classes/Technomancer/Technomancer\|Technomancer]] 1_
 >
 > ```custom-frames
 > frame: Dr. Rivers
 > style: height: 525px; margin-top: -130px;
 > ```
 
->[!kith|clean]- [[Campaign/player characters/Jemri/Jemri\|Jemri]] (Jared) _[[Starfinder-SRD/Compendium/Species/Shirren/Shirren\|Shirren]]  Law Officer [[Starfinder-SRD/Compendium/Classes/Mystic/Mystic\|Mystic]] 2_
+>[!kith|clean]- [[Jemri\|Jemri]] (Jared) _[[Starfinder-SRD/Compendium/Species/Shirren/Shirren\|Shirren]]  Law Officer [[Starfinder-SRD/Compendium/Classes/Mystic/Mystic\|Mystic]] 2_
 >
 > ```custom-frames
 > frame: Jemri
 > style: height: 375px; margin-top: -130px;
 > ```
 
->[!kith|clean]- [[Campaign/player characters/K'zyn/K'zyn\|K'zyn]] (Jared) _[[Starfinder-SRD/Compendium/Species/Shirren/Shirren\|Shirren]] [[Starfinder-SRD/Compendium/Classes/Mystic/Mystic\|Mystic]] 3_
+>[!kith|clean]- [[K'zyn\|K'zyn]] (Jared) _[[Starfinder-SRD/Compendium/Species/Shirren/Shirren\|Shirren]] [[Starfinder-SRD/Compendium/Classes/Mystic/Mystic\|Mystic]] 3_
 >
 > ```custom-frames
 > frame: K'zyn
@@ -38,7 +38,7 @@
 > style: height: 375px; margin-top: -130px;
 > ```
 
->[!kith|clean]- [[Campaign/player characters/Pixi/Pixi\|Pixi]] (Falcon) _[[Starfinder-SRD/Compendium/Species/Goblin, Space/Goblin, Space\|Goblin]] Pickpocket [[Starfinder-SRD/Compendium/Classes/Operative/Operative\|Operative]] 4_
+>[!kith|clean]- [[Pixi\|Pixi]] (Falcon) _[[Starfinder-SRD/Compendium/Species/Goblin, Space/Goblin, Space\|Goblin]] Pickpocket [[Starfinder-SRD/Compendium/Classes/Operative/Operative\|Operative]] 4_
 >
 > ```custom-frames
 > frame: Pixi
@@ -52,7 +52,7 @@
 > style: height: 525px; margin-top: -130px;
 > ```
 
->[!kith|clean]- [[Campaign/player characters/The Eaten One/The Eaten One\|The Eaten One]] (Digo) _[[Starfinder-SRD/Compendium/Species/Nuar/Nuar\|Nuar]] [[Starfinder-SRD/Compendium/Classes/Evolutionist/Evolutionist\|Evolutionist]] 2_
+>[!kith|clean]- [[Campaign/player characters/Digo/The Eaten One\|Campaign/player characters/Digo/The Eaten One]] (Digo) _[[Starfinder-SRD/Compendium/Species/Nuar/Nuar\|Nuar]] [[Starfinder-SRD/Compendium/Classes/Evolutionist/Evolutionist\|Evolutionist]] 2_
 >
 > ```custom-frames
 > frame: The Eaten One

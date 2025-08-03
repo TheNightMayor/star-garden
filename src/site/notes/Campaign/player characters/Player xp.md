@@ -13,9 +13,9 @@ Lvl: character's level; each level costs 3 Xp and can be awarded any time betwee
 | INSP | Player       | XP  |     | Character               | Lvl | Character         | Lvl | Character              | Lvl |
 | ---- | ------------ | --- | --- | ----------------------- | --- | ----------------- | --- | ---------------------- | --- |
 | 1    | [[Campaign/player characters/Lawrence\|Lawrence]] | 60  |     |                         |     |                   |     |                        |     |
-| 2    | [[Campaign/player characters/Falcon\|Falcon]]   | 14  |     | [[Campaign/player characters/Pixi/Pixi Sprocket\|Pixi]] | 4   | [[Campaign/player characters/Dr. Rivers/Dr. Rivers\|Dr. Rivers]]    | 2   | [[Campaign/player characters/Birds on the Flame/Birds on the Flame\|Birds on the Flame]] | 2   |
-| 1    | [[Campaign/player characters/Digo\|Digo]]     | 12  |     | [[Campaign/player characters/rev/rev\|rev]]                 | 4   | [[Campaign/player characters/The Eaten One/The Eaten One\|The Eaten One]] | 2   |                        |     |
-| 1    | [[Campaign/player characters/James\|James]]    | 7   |     | [[Hayho-Aru\|Hayho-Aru]]           | 2   |                   |     |                        |     |
+| 2    | [[Campaign/player characters/Falcon/Falcon\|Falcon]]   | 14  |     | [[Campaign/player characters/Falcon/Pixi Sprocket/Pixi Sprocket\|Pixi]] | 4   | [[Dr. Rivers\|Dr. Rivers]]    | 2   | [[Campaign/player characters/Birds on the Flame/Birds on the Flame\|Birds on the Flame]] | 2   |
+| 1    | [[Campaign/player characters/Digo/Digo\|Digo]]     | 12  |     | [[Campaign/player characters/rev/rev\|rev]]                 | 4   | [[Campaign/player characters/Digo/The Eaten One\|Campaign/player characters/Digo/The Eaten One]] | 2   |                        |     |
+| 1    | [[Campaign/player characters/James/James\|James]]    | 7   |     | [[Hayho-Aru\|Hayho-Aru]]           | 2   |                   |     |                        |     |
 | 1    | [[Campaign/player characters/Veed\|Veed]]     | 1   |     |                         |     |                   |     |                        |     |
 
 # Inactive Players
@@ -31,4 +31,4 @@ Lvl: character's level; each level costs 3 Xp and can be awarded any time betwee
 # Former Players
 | INSP | Player    | XP  |     | Character | lvl | Character | lvl | Character | lvl |
 | ---- | --------- | --- | --- | --------- | --- | --------- | --- | --------- | --- |
-| 2    | [[Jared\|Jared]] | 2   |     | [[Campaign/player characters/Jemri/Jemri\|Jemri]] | 2   | [[Campaign/player characters/K'zyn/K'zyn\|K'zyn]] | 3   |           |     |
+| 2    | [[Jared\|Jared]] | 2   |     | [[Jemri\|Jemri]] | 2   | [[K'zyn\|K'zyn]] | 3   |           |     |

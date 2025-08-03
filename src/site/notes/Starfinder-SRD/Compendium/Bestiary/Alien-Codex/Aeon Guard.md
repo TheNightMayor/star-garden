@@ -6,9 +6,9 @@
 >[!info]-  Aeon Guard
 >
 >![Aeon Guard.png|100](/img/user/Images/Aliens/Enemies/humanoid/aeon%20guard/aeon%20guard.png)
-># Aeon Guard 
->XP 800 CR 3 
->[[Starfinder-SRD/Compendium/Species/Human/Human\|Human]] [[Starfinder-SRD/Compendium/Classes/Soldier/Soldier\|Soldier]]  
+># Aeon Guard
+>XP 800 CR 3
+>[[Starfinder-SRD/Compendium/Species/Human/Human\|Human]] [[Starfinder-SRD/Compendium/Classes/Soldier/Soldier\|Soldier]]
 >LE Medium humanoid (human)
 >**Init**: 5 **Senses**: Darkvision 60ft **Perception**: 8
 >### DEFENSE
@@ -20,7 +20,7 @@
 >---
 >**Speed**: 20ft.
 >**Melee**: thunderstrike pulse gauntlet +8 (1d6 + 5 B&So; critical knockdown)
->**Ranged**: AG assault rifle +11 (1d8 + 3 P) or frag grenade II +11 (explode [5ft., 1d8 + 3 P, DC 14]) or incindiary grenade I +11 (explode [5ft., 1d6 F plus 1d4 burn, DC 14]) 
+>**Ranged**: AG assault rifle +11 (1d8 + 3 P) or frag grenade II +11 (explode [5ft., 1d8 + 3 P, DC 14]) or incindiary grenade I +11 (explode [5ft., 1d6 F plus 1d4 burn, DC 14])
 >**Offensive Abilities**: [[Starfinder-SRD/Compendium/Classes/Soldier/Fighting Styles/Sharpshoot\|Sharpshoot]], [[Starfinder-SRD/Compendium/Classes/Soldier/Fighting Styles/Sharpshoot#SNIPER’S Aim (EX)\| Sniper's Aim]]
 > ### Statistics
 >---
@@ -29,11 +29,10 @@
 >|2|4|1|1|1|1|
 >
 >
->**Skills**: <ul><ul class="dataview dataview-ul dataview-result-object-ul"><li class="dataview dataview-li dataview-result-object-li">athletics: <span>8</span></li><li class="dataview dataview-li dataview-result-object-li">intimidate: <span>8</span></li><li class="dataview dataview-li dataview-result-object-li">profession (soldier): <span>8</span></li><li class="dataview dataview-li dataview-result-object-li">stealth: <span>10</span></li></ul></ul> 
+>**Skills**: <ul><ul class="dataview dataview-ul dataview-result-object-ul"><li class="dataview dataview-li dataview-result-object-li">athletics: <span>8</span></li><li class="dataview dataview-li dataview-result-object-li">intimidate: <span>8</span></li><li class="dataview dataview-li dataview-result-object-li">profession (soldier): <span>8</span></li><li class="dataview dataview-li dataview-result-object-li">stealth: <span>10</span></li></ul></ul>
 >**Languages**: azlanti
 >**Gear**: [[Starfinder-SRD/Compendium/Items/Armor/Heavy Armor/Aeon Guard Battle Dress#Aeon Guard, Battle Dress (Trooper) \|AG Trooper Battle Dress]] [[Starfinder-SRD/Compendium/Items/Magic Items/Aeon Stone/Aeon Stone#Aeon Stone, Clear Spindle \| clear spindle aeon stone]], [[Starfinder-SRD/Compendium/Items/Armor/Armor Upgrades/Jump Jets\|Jump Jets]]), [[Starfinder-SRD/Compendium/Items/Armaments/Longarms/Aeon Guard Rifle#Aeon Guard, Assault Rifle \| AG assault rifle]] with 4 magazines (100 [[Starfinder-SRD/Compendium/Items/Ammunition/Rounds#Rounds, Longarm and Sniper \|longarm rounds]]), [[Starfinder-SRD/Compendium/Items/Armaments/Advanced Melee/One Handed - Advanced Melee/Pulse Gauntlet#Pulse Gauntlet, Thunderstrike\|Thunderstrike pulse gauntlet]] with 2 [[Starfinder-SRD/Compendium/Items/Ammunition/Battery#Battery, Standard\|Batteries]], [[Starfinder-SRD/Compendium/Items/Armaments/Grenades/Frag Grenade#Frag Grenade, Mk 2 \| Frag grenade mk 2]], [[Starfinder-SRD/Compendium/Items/Armaments/Grenades/Incendiary Grenade#Incendiary Grenade, Mk 1 \| Incindiary grenade mk 1]]
 >**Source**: Alien Archive
-
 
 ```statblock
 creature: Aeon Guard
