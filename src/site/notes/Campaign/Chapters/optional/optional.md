@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/chapters/optional/optional/","contentClasses":"wide","dgShowFileTree":"false"}
+{"dg-publish":true,"permalink":"/campaign/chapters/optional/optional/","contentClasses":"","dgShowFileTree":"false"}
 ---
 
 # Society Scenarios
