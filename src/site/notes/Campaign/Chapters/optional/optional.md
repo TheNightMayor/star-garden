@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/campaign/chapters/optional/optional/","contentClasses":"wide","dgShowFileTree":"false"}
 ---
 
+| [[Campaign/player characters/Player xp\|PLAYERS]] | [[Garden\|HOME]] |
 # Society Scenarios
 
 | \#   | title                      | summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | notes                                                                                                                                                                                                                                                                        | level | rating | done? |

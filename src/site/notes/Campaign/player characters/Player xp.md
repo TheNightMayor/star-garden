@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/campaign/player-characters/player-xp/","tags":["gardenEntry"]}
 ---
 
+| [[Campaign/Chapters/optional/optional\|SCENARIOS]] | [[Garden\|HOME]] |
 # Active Players
 INSP: Inspiration rolls accumulated: Consume one of these to roll two d20s and use the higher result on any roll. Gained by roleplaying your character in particularly fun or interesting ways. Start with at least 1 each session.
 XP: Each session attended awards 1xp, each episode completed from beginning to end awards 1xp. Xp is tracked for each player and can be used to level any of that player's characters
