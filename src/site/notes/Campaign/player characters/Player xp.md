@@ -13,9 +13,9 @@ Lvl: character's level; each level costs 3 Xp and can be awarded any time betwee
 | INSP | Player       | XP  |     | Character               | Lvl | Character         | Lvl | Character              | Lvl |
 | ---- | ------------ | --- | --- | ----------------------- | --- | ----------------- | --- | ---------------------- | --- |
 | 1    | [[Campaign/player characters/Lawrence/Lawrence\|Lawrence]] | 60  |     |                         |     |                   |     |                        |     |
-| 2    | [[Campaign/player characters/Falcon/Falcon\|Falcon]]   | 14  |     | [[Campaign/player characters/Falcon/Pixi Sprocket/Pixi Sprocket\|Pixi]] | 4   | [[Dr. Rivers\|Dr. Rivers]]    | 2   | [[Campaign/player characters/Falcon/Birds on the Flame/Birds on the Flame\|Birds on the Flame]] | 2   |
-| 1    | [[Campaign/player characters/Digo/Digo\|Digo]]     | 12  |     | [[rev\|rev]]                 | 4   | [[Campaign/player characters/Digo/The Eaten One\|Campaign/player characters/Digo/The Eaten One]] | 2   |                        |     |
-| 1    | [[Campaign/player characters/James/James\|James]]    | 7   |     | [[Hayho-Aru\|Hayho-Aru]]           | 2   |                   |     |                        |     |
+| 2    | [[Campaign/player characters/Falcon/Falcon\|Falcon]]   | 14  |     | [[Campaign/player characters/Falcon/Pixi Sprocket/Pixi Sprocket\|Pixi Sprocket]] | 4   | [[Campaign/player characters/Falcon/Dr. Akari Rivers\|Dr. Akari Rivers]]    | 2   | [[Campaign/player characters/Falcon/Birds on the Flame/Birds on the Flame\|Birds on the Flame]] | 2   |
+| 1    | [[Campaign/player characters/Digo/Digo\|Digo]]     | 12  |     | [[Campaign/player characters/Digo/Reverend "Rev" Ace'o Trades/Reverend "Rev" Ace'o Trades\|Reverend "Rev" Ace'o Trades]]                 | 4   | [[Campaign/player characters/Digo/The Eaten One\|The Eaten One]] | 2   |                        |     |
+| 1    | [[Campaign/player characters/James/James\|James]]    | 7   |     | [[Campaign/player characters/James/Hayho-Aryu\|Hayho-Aryu]]           | 2   |                   |     |                        |     |
 | 1    | [[Campaign/player characters/Veed/Veed\|Veed]]     | 1   |     |                         |     |                   |     |                        |     |
 
 # Inactive Players
