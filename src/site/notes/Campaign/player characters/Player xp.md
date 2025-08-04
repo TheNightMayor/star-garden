@@ -12,11 +12,11 @@ Lvl: character's level; each level costs 3 Xp and can be awarded any time betwee
 
 | INSP | Player       | XP  |     | Character               | Lvl | Character         | Lvl | Character              | Lvl |
 | ---- | ------------ | --- | --- | ----------------------- | --- | ----------------- | --- | ---------------------- | --- |
-| 1    | [[Campaign/player characters/Lawrence\|Lawrence]] | 60  |     |                         |     |                   |     |                        |     |
-| 2    | [[Campaign/player characters/Falcon/Falcon\|Falcon]]   | 14  |     | [[Campaign/player characters/Falcon/Pixi Sprocket/Pixi Sprocket\|Pixi]] | 4   | [[Dr. Rivers\|Dr. Rivers]]    | 2   | [[Campaign/player characters/Birds on the Flame/Birds on the Flame\|Birds on the Flame]] | 2   |
-| 1    | [[Campaign/player characters/Digo/Digo\|Digo]]     | 12  |     | [[Campaign/player characters/rev/rev\|rev]]                 | 4   | [[Campaign/player characters/Digo/The Eaten One\|Campaign/player characters/Digo/The Eaten One]] | 2   |                        |     |
+| 1    | [[Campaign/player characters/Lawrence/Lawrence\|Lawrence]] | 60  |     |                         |     |                   |     |                        |     |
+| 2    | [[Campaign/player characters/Falcon/Falcon\|Falcon]]   | 14  |     | [[Campaign/player characters/Falcon/Pixi Sprocket/Pixi Sprocket\|Pixi]] | 4   | [[Dr. Rivers\|Dr. Rivers]]    | 2   | [[Campaign/player characters/Falcon/Birds on the Flame/Birds on the Flame\|Birds on the Flame]] | 2   |
+| 1    | [[Campaign/player characters/Digo/Digo\|Digo]]     | 12  |     | [[rev\|rev]]                 | 4   | [[Campaign/player characters/Digo/The Eaten One\|Campaign/player characters/Digo/The Eaten One]] | 2   |                        |     |
 | 1    | [[Campaign/player characters/James/James\|James]]    | 7   |     | [[Hayho-Aru\|Hayho-Aru]]           | 2   |                   |     |                        |     |
-| 1    | [[Campaign/player characters/Veed\|Veed]]     | 1   |     |                         |     |                   |     |                        |     |
+| 1    | [[Campaign/player characters/Veed/Veed\|Veed]]     | 1   |     |                         |     |                   |     |                        |     |
 
 # Inactive Players
 
@@ -24,9 +24,9 @@ Lvl: character's level; each level costs 3 Xp and can be awarded any time betwee
 | ---- | ----------- | --- | --- | ---------- | --- | --------- | --- | --------- | --- |
 | 1    | [[Billie\|Billie]]  | 1   |     | [[Joe\|Joe]]    | 1   |           |     |           |     |
 | 1    | [[Olive\|Olive]]   | 1   |     |            |     |           |     |           |     |
-| 1    | [[Kaylene\|Kaylene]] | 4   |     | [[Campaign/player characters/Oberon/Oberon\|Oberon]] | 4   |           |     |           |     |
-| 1    | [[Katie\|Katie]]   | 3   |     | [[Campaign/player characters/Zenbot/Zenbot\|Zenbot]] | 3   |           |     |           |     |
-| 1    | [[Liz\|Liz]]     | 5   |     | [[Campaign/player characters/Nes/Nes\|Nes]]    | 3   |           |     |           |     |
+| 1    | [[Campaign/player characters/Kaylene/Kaylene\|Kaylene]] | 4   |     | [[Campaign/player characters/Kaylene/Oberon/Oberon\|Oberon]] | 4   |           |     |           |     |
+| 1    | [[Campaign/player characters/Katie/Katie\|Katie]]   | 3   |     | [[Campaign/player characters/Katie/Zenbot/Zenbot\|Zenbot]] | 3   |           |     |           |     |
+| 1    | [[Campaign/player characters/Liz/Liz\|Liz]]     | 5   |     | [[Campaign/player characters/Liz/Nes/Nes\|Nes]]    | 3   |           |     |           |     |
 | 2    | [[Adam\|Adam]]    | 6   |     |            |     |           |     |           |     |
 # Former Players
 | INSP | Player    | XP  |     | Character | lvl | Character | lvl | Character | lvl |
