@@ -248,12 +248,12 @@ Floating in the orbit formerly occupied by Golarion, Absalom Station is the prim
 > [!infobox]
 > ![Akiton.png](/img/user/Images/Art/akiton.png) 
 > # The Battlefield 
-**Diameter**: ×1/2 
-**Mass**: ×1/12 
-**Gravity**: ×1/3 
-**Atmosphere**: Thin
-**Day**: 24 hours, 40 minutes; 
-**Year**: 2 years
+>**Diameter**: ×1/2 
+>**Mass**: ×1/12 
+>**Gravity**: ×1/3 
+>**Atmosphere**: Thin
+>:**Day**: 24 hours, 40 minutes; 
+>**Year**: 2 years
 
 ## Summary 
 Despite its proximity to Absalom Station and its favorable location as the fourth planet from the sun (counting missing Golarion), Akiton is a dying world. Since the system’s formation, the so-called Red Planet has lost much of the atmosphere and liquid water it once held due to the slowing of its liquid-iron core and the resulting weakening of its magnetosphere. Though this slow decline transpires on a geologic scale and Akiton remains hospitable to humanoid life—and indeed, its slowly expanding deserts and rock chasms are all that most of its resident species have ever known—it also offers a sad metaphor for the planet’s dying economy. 
