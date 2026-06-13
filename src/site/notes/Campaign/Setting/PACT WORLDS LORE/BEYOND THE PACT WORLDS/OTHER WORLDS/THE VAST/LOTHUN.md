@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/other-worlds/the-vast/lothun/","dg-note-properties":{"aliases":null,"cssclasses":null,"tags":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
+---
+
+
+
+## LOTHUN
+Terraforming Project Gone Haywire 
+Diameter: ×1 Mass: ×2 Gravity: ×2 Location: The Vast Atmosphere: Special Day: 20 hours; Year: 2 years
+Just a decade ago, Lothun was little more than a primitive hunk of metal, home to no sentient life, devoid of any ecosystems to speak of, and languishing under a toxic atmosphere. However, upon discovering it, a consortium of mining entrepreneurs called the Prospectors recognized that Lothun could easily host a terraforming experiment that, if successful, would repay its cost a thousandfold once the planet could be mined for resources. The Prospectors quickly established massive nano-forges and laboratories at key junctures around the planet and stationed scientists there indefinitely. The Prospectors carefully shielded each facility from the harsh environment and linked them to generate synchronized terraforming “pulses” intended to remake Lothun according to predetermined environmental designs. However, the tech ran amok, and the terraforming pulses became nano-forge storms that rampaged across Lothun’s surface, transforming the world seemingly at random. The original bases remain, their shielding protecting them from destruction; they continue to emit terraforming energies, but all communication with the Prospectors’ scientists has ceased. The tech works to a degree, as there are large roving pockets of breathable air scattered throughout Lothun. If it could be salvaged, the planet might be a great boon to future colonies across unsettled space—or perhaps it might serve as a civilization-threatening weapon, if the Prospectors’ facilities fell into the wrong hands. 

@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/campaign/setting/factions-and-organizations/more-factions/golden-league/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+---
+
+
+
+### Golden League 
+While the Pact Worlds have as many criminal enterprises as there are stars in the sky, from gangs of a few thugs to planetwide cabals, most major space stations and cities in the Pact Worlds host members of the Golden League, an ancient alliance of powerful crime “families” that has its origins on the continent of Tian Xia on pre-Gap Golarion. The Golden League exploits commerce and trade through bribery, threats, assassination, and the outright manipulation of currency and markets, with no other aim than to increase the wealth of its members. Criminal activity on a single space station or populated asteroid usually falls under the purview of one family, while multiple families share power on most planets and larger moons. Each family employs a coterie of tattooed and often augmented soldiers and assassins called Xun, who are greatly feared and respected in Golden League-controlled territories. No single family leads the Golden League, allowing the organization itself to survive even if one or more families are eliminated by police forces or destroyed by rivals, though the prominent Ichihara-Hong family, which controls a sizable portion of Akiton’s crime world, currently dominates much of the Golden League’s activities. 

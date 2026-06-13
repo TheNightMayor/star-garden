@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/other-worlds/near-space/riven-shroud/","dg-note-properties":{"aliases":null,"cssclasses":null,"tags":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
+---
+
+
+
+## RIVEN SHROUD
+Solar-Powered Starship Graveyard 
+Diameter: ×2 Mass: ×2 Gravity: ×1 Location: Near Space Atmosphere: None Day: —; Year: — 
+In a remote portion of a galactic arm is an immense spherical megastructure built directly around its sun. Called the Riven Shroud, it is a Dyson sphere: a lacy grid of continent-wide modules of alien architecture, linked by vast solar sails—but rent open in some unknown disaster. Its creators vanished millennia ago, and much of it remains abandoned. The ruined regions near the gash are open to the vacuum. Much of the rest appears relatively intact and is home to isolated communities of researchers, scavengers, and squatters. Several, including the aatevak, qotraua, and xixinnt, claim descent from the Shroud’s creators, but the mismatch between their biology and the structure’s architecture makes their claims unlikely. The Shroud’s life-support system functions only partially, and some areas have unbreathable atmospheres or fluctuating gravity. Its remaining defense systems periodically engage without provocation. The space around and within it is also perilous, containing massive haunts said to be the ghostly remains of the worlds destroyed to fuel the Shroud’s creation. The structure also suffers periodic incursions from organizations seeking its secrets. Eerily, the Riven Shroud may be using these incursions to slowly repair itself. Bordering its edges are irregular arrays of derelict ships and stretches of newer sail. The largest and most ancient of this dead armada share the same strange architecture as the Shroud. Other ships are later arrivals that carried would-be despoilers or settlers. Most of these fell to battles with competing factions or the sphere’s automated defenses— but some appear to be abandoned, with nary a trace of their crews’ fates. 

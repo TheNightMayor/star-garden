@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/ammunition/battery/"}
+{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/ammunition/battery/","dg-note-properties":{"aliases":["Batteries","batteries"],"price":null,"tags":null,"type":"Ammo"}}
 ---
 
 

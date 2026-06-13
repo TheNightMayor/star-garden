@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/other-worlds/the-vast/arquand/","dg-note-properties":{"aliases":null,"cssclasses":null,"tags":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
+---
+
+
+
+## ARQUAND
+The Unconscious Sprung to Life 
+Diameter: ×1 Mass: ×1 Gravity: ×1 Location: The Vast Atmosphere: Normal Day: 26 hours; Year: 1 year 
+W hen explorers first discovered Arquand, they were ecstatic: a pastoral, resource-rich world without sentient life, ripe for settlement. Within a few months, however, the tenor of their reports shifted. They spoke of seeing long-dead loved ones lurking in shadows, of technology randomly malfunctioning, and of native fauna demonstrating eerily organized hostility. After a disaster in which an entire encampment disappeared, the remaining explorers pulled back to their ships in orbit. Further research suggested an unusual explanation: while Arquand contains no sentient life, the planet itself is self-aware, reacting to the desires and fears of resident life-forms. For less- intelligent creatures, it might produce food when they’re hungry, or it might change shape to aid in migration; and thus, simple life on the planet thrives, from herds of long-necked, six-legged gazelles to colorful, four-winged birds in city-sized flocks. With intelligent life, however, this mysterious force preys upon visitors’ psyches, feeding upon their emotions, which gives the force shape. A visitor might wake from a nightmare to find that the ravening monster that pursued him through his dreams now slavers at the foot of his bed. Even manifestations evoked by positive feelings have dangerous effects, drawing out obsession and siphoning away the sanity of their creators. Despite these well-publicized dangers, Pact Worlds settlers and explorers continue to flock to this false paradise, hoping themselves disciplined enough to harness the planet’s wish-fulfillment potential. 

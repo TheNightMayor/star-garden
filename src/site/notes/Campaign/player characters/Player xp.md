@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/player-characters/player-xp/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/campaign/player-characters/player-xp/","tags":["gardenEntry"],"dg-note-properties":{"aliases":[],"tags":["gardenEntry"],"cssclasses":null}}
 ---
 
-| [[Campaign/Chapters/optional/optional\|SCENARIOS]] | [[Garden\|HOME]] |
+| [[Campaign/Scoured Stars Campaign/Year of the Scoured Stars/Year of the Scoured Stars\|SCENARIOS]] | [[Garden\|HOME]] |
 # Active Players
 INSP: Inspiration rolls accumulated: Consume one of these to roll two d20s and use the higher result on any roll. Gained by roleplaying your character in particularly fun or interesting ways. Start with at least 1 each session.
 XP: Each session attended awards 1xp, each episode completed from beginning to end awards 1xp. Xp is tracked for each player and can be used to level any of that player's characters
@@ -14,7 +14,7 @@ Lvl: character's level; each level costs 3 Xp and can be awarded any time betwee
 | ---- | ------------ | --- | --- | ----------------------- | --- | ----------------- | --- | ---------------------- | --- |
 | 1    | [[Campaign/player characters/Lawrence/Lawrence\|Lawrence]] | 60  |     |                         |     |                   |     |                        |     |
 | 2    | [[Campaign/player characters/Falcon/Falcon\|Falcon]]   | 14  |     | [[Campaign/player characters/Falcon/Pixi Sprocket/Pixi Sprocket\|Pixi Sprocket]] | 4   | [[Campaign/player characters/Falcon/Dr. Akari Rivers\|Dr. Akari Rivers]]    | 2   | [[Campaign/player characters/Falcon/Birds on the Flame/Birds on the Flame\|Birds on the Flame]] | 2   |
-| 1    | [[Campaign/player characters/Digo/Digo\|Digo]]     | 12  |     | [[Campaign/player characters/Digo/Reverend "Rev" Ace'o Trades/Reverend "Rev" Ace'o Trades\|Reverend "Rev" Ace'o Trades]]                 | 4   | [[Campaign/player characters/Digo/The Eaten One\|The Eaten One]] | 2   |                        |     |
+| 1    | [[Campaign/player characters/Digo/Digo\|Digo]]     | 12  |     | [[Campaign/player characters/Digo/Rev/Rev\|Rev]]                 | 4   | [[Campaign/player characters/Digo/The Eaten One\|The Eaten One]] | 2   |                        |     |
 | 1    | [[Campaign/player characters/James/James\|James]]    | 7   |     | [[Campaign/player characters/James/Hayho-Aryu\|Hayho-Aryu]]           | 2   |                   |     |                        |     |
 | 1    | [[Campaign/player characters/Veed/Veed\|Veed]]     | 1   |     |                         |     |                   |     |                        |     |
 
@@ -32,3 +32,5 @@ Lvl: character's level; each level costs 3 Xp and can be awarded any time betwee
 | INSP | Player    | XP  |     | Character | lvl | Character | lvl | Character | lvl |
 | ---- | --------- | --- | --- | --------- | --- | --------- | --- | --------- | --- |
 | 2    | [[Jared\|Jared]] | 2   |     | [[Jemri\|Jemri]] | 2   | [[K'zyn\|K'zyn]] | 3   |           |     |
+| 2    | Adam      | 6   |     |           |     |           |     |           |     |
+| 1    | Billie    | 1   |     | Joe       | 1   |           |     |           |     |

@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/other-worlds/the-vast/jedarat/","dg-note-properties":{"aliases":null,"cssclasses":null,"tags":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
+---
+
+
+
+## JEDARAT 
+Burgeoning Destinations Amid Alien Rubble 
+Diameter: ×1/2 Mass: ×3/8 Gravity: ×1-1/2 Location: The Vast Atmosphere: Thin Day: 15 hours; Year: 257 days 
+A lifeless, rocky world orbiting a yellow dwarf main- sequence star called Vose 303, Jedarat is the site of a joint environmental project sponsored by AbadarCorp, the Xenowardens, and a start-up company called New Horizons Luxury Retreats. In its natural state, Jedarat is bone-chillingly cold, lacks an atmosphere thick enough to support most humanoids, and seems uninhabited. Yet, with minor scientific effort, the planet is poised to become a pristine, snow-capped vacation resort-world that investors hope will attract tourists as well as settlers. Currently, the scientists and xenodruids stationed on the planet work toward that very goal. At Jedarat’s poles, city-sized atmospheric conversion modules transform the polar ice caps into gases pumped high into the sky, thickening the atmosphere and warming the planet. Vast microbial mats—the abiogenesis of  native life on Jedarat—spread across the  land between shallow but growing seas. The scientists overseeing the project’s progress have discovered the existence of some previously unknown alien ruins situated in the planet’s most remote corners. As various factions scramble to mount their own archaeological expeditions, the project’s investors  have already begun some early exploratory forays into the ruins. Ever eager for new opportunities to turn a profit, the investors are spinning myriad plans for incorporating the ancient ruins into the planet’s future holiday amenities. 

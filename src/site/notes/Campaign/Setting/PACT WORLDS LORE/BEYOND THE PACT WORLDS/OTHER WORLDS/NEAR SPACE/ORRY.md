@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/other-worlds/near-space/orry/","dg-note-properties":{"aliases":null,"cssclasses":null,"tags":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
+---
+
+
+
+## ORRY
+Blasted Cluster of Floating Islands 
+Diameter: ×1/2 Mass: ×1/4 Gravity: ×1 Location: Near Space Atmosphere: Thin Day: 28 hours; Year: 2 years 
+Millennia ago, Orry was a technomagical utopia, with scientists and wizards working together to create wonders. However, when a project aimed at harnessing gravity to achieve the wonder of space travel went horribly awry, it created an anomaly at the planet’s core. The planet’s crust shattered, and much of the world’s mass floated out into space. The majority of the population was killed, but remarkably, large chunks of land remained unharmed. The mystical gravitational forces also kept the atmosphere intact, but thin. Orry now encompasses 10 massive swaths of land, along with several dozen smaller formations that float in regular orbits around a central point; some take a full Pact Standard year to traverse a full orbit. These landmasses never collide and rotate slowly so that their bottoms always face the anomaly. As the centuries passed, the humanoid natives of Orry forgot their high technology and magic, surviving in their fractured ecosystem and eventually becoming a simple, relatively low- tech agrarian society. Trade exists between the handful of Orry’s larger cities, even across the gulfs of space between islands and nations. Due to their slow orbits, they remain close enough that crossing from one to another becomes possible. Brave groups of daredevils called bridgers use death-defying acrobatic techniques to swing themselves across the gaps and fashion temporary rope-and-wood structures that allow travelers to journey from one island to another. Unknown to most Orrians, artifacts from their golden age still exist, some of which interfere with flight and teleportation magic and technology. 
