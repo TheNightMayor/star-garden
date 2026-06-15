@@ -7,4 +7,4 @@ Surrounded by a dense field of asteroids.
 Uninhabited by intelligent creatures. 
 The atmosphere contains storms of dangerous poisonous crystals.
 known inhabitants:
-[[Campaign/Compendium/Bestiary/SKREEBARA\|SKREEBARA]]
+[[Starfinder-SRD/Compendium/Bestiary/Alien-Codex/in-progress/SKREEBARA\|SKREEBARA]]
