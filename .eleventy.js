@@ -1,6 +1,7 @@
 const slugify = require("@sindresorhus/slugify");
 const markdownIt = require("markdown-it");
 const fs = require("fs");
+const fsp = fs.promises;
 const matter = require("gray-matter");
 // Obsidian writes [[Page\|Alias]] in frontmatter, but \| is an invalid YAML
 // escape sequence. This custom engine strips \| before parsing. Shared between
@@ -15,7 +16,6 @@ const matterOptions = {
     },
   },
 };
-const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const normalizeFavicon = require("./src/site/normalize-favicon.js");
 
 const FAVICON_SOURCE = "./src/site/favicon.svg";
@@ -720,11 +720,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
   eleventyConfig.addPassthroughCopy({ "src/site/logo.*": "/" });
-  eleventyConfig.on("eleventy.before", () => {
+  eleventyConfig.on("eleventy.before", async () => {
     normalizeFavicon(FAVICON_SOURCE, FAVICON_NORMALIZED);
+    await fsp.mkdir("dist", { recursive: true });
+    await fsp.copyFile(FAVICON_NORMALIZED, "dist/favicon.svg");
   });
   eleventyConfig.addWatchTarget(FAVICON_SOURCE);
-  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
     tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
