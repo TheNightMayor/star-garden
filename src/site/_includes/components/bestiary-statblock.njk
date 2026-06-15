@@ -1,0 +1,183 @@
+{# Bestiary statblock rendered from dg-note-properties metadata #}
+{% macro renderText(value) %}
+  {% if value is string %}
+    {{ value | link | taggify | safe }}
+  {% else %}
+    {{ value }}
+  {% endif %}
+{% endmacro %}
+
+<div class="callout" data-callout="statblocks">
+  <div class="callout-content">
+    <div class="statblock-header">
+      <h1>{{ renderText(noteProps.name or title or page.fileSlug) }}</h1>
+
+      {% if noteProps.XP or noteProps.cr %}
+        <p class="statblock-topline">
+          {% if noteProps.XP %}<span>XP {{ noteProps.XP }}</span>{% endif %}
+          {% if noteProps.cr %}<span{% if noteProps.XP %} class="statblock-spacer"{% endif %}>CR {{ noteProps.cr }}</span>{% endif %}
+        </p>
+      {% endif %}
+
+      {% if noteProps.Type %}
+        <p class="statblock-line">{{ renderText(noteProps.Type) }}</p>
+      {% elif noteProps.type or noteProps.class or noteProps.subtype %}
+        <p class="statblock-line">
+          {% if noteProps.class %}{{ renderText(noteProps.class) }}{% endif %}
+          {% if noteProps.type %}{% if noteProps.class %} {% endif %}{{ renderText(noteProps.type) }}{% endif %}
+          {% if noteProps.subtype %} {{ renderText(noteProps.subtype) }}{% endif %}
+        </p>
+      {% endif %}
+
+      {% if noteProps.Init or noteProps.Perception or noteProps.Senses %}
+        <p class="statblock-line">
+          {% if noteProps.Init %}<strong>Init</strong> {{ noteProps.Init }}{% endif %}
+          {% if noteProps.Perception %}{% if noteProps.Init %} • {% endif %}<strong>Perception</strong> {{ noteProps.Perception }}{% endif %}
+          {% if noteProps.Senses %}{% if noteProps.Perception or noteProps.Init %} • {% endif %}<strong>Senses</strong> {{ noteProps.Senses }}{% endif %}
+        </p>
+      {% endif %}
+    </div>
+
+    <div class="statblock-section statblock-defense">
+      <h2>Defense</h2>
+      {% if noteProps.hp %}
+        <p><strong>HP</strong> {{ noteProps.hp }}</p>
+      {% endif %}
+
+      {% if noteProps.EAC or noteProps.KAC %}
+        <p>
+          {% if noteProps.EAC %}<strong>EAC</strong> {{ noteProps.EAC }}{% endif %}
+          {% if noteProps.KAC %}{% if noteProps.EAC %} • {% endif %}<strong>KAC</strong> {{ noteProps.KAC }}{% endif %}
+        </p>
+      {% endif %}
+
+      {% if noteProps.saves %}
+        <p><strong>Saves</strong>
+          {% if noteProps.saves.Fort is defined %}
+            Fort {{ noteProps.saves.Fort }}, Ref {{ noteProps.saves.Ref }}, Will {{ noteProps.saves.Will }}
+          {% else %}
+            {% for save in noteProps.saves %}
+              {% for key, value in save %}{{ renderText(key) }} {{ renderText(value) }}{% if not loop.last %}, {% endif %}{% endfor %}{% if not loop.last %}, {% endif %}
+            {% endfor %}
+          {% endif %}
+        </p>
+      {% endif %}
+    </div>
+
+    {% if noteProps.Speed or noteProps.Melee or noteProps.Ranged or noteProps.offabilities %}
+      <div class="statblock-section statblock-offense">
+        <h2>Offense</h2>
+        {% if noteProps.Speed %}
+          <p><strong>Speed</strong> {{ noteProps.Speed }}</p>
+        {% endif %}
+        {% if noteProps.Melee %}
+          <p><strong>Melee</strong><br>
+            {% for item in noteProps.Melee %}
+              {{ renderText(item.desc or item) }}{% if not loop.last %}<br>{% endif %}
+            {% endfor %}
+          </p>
+        {% endif %}
+
+        {% if noteProps.Ranged %}
+          <p><strong>Ranged</strong><br>
+            {% for item in noteProps.Ranged %}
+              {{ renderText(item.desc or item) }}{% if not loop.last %}<br>{% endif %}
+            {% endfor %}
+          </p>
+        {% endif %}
+
+        {% if noteProps.offabilities %}
+          {% for item in noteProps.offabilities %}
+            <p>
+              {% if item.name %}<strong>{{ renderText(item.name) }}</strong>{% endif %}
+              {{ renderText(item.desc or item) }}
+            </p>
+          {% endfor %}
+        {% endif %}
+      </div>
+    {% endif %}
+
+    <div class="statblock-section statblock-statistics">
+      <h2>Statistics</h2>
+
+      {% if noteProps.abilitymods %}
+        <div class="statblock-ability-scores">
+          {% for mod in noteProps.abilitymods %}
+            {% for key, value in mod %}
+              <span class="statblock-ability">
+                <strong>{{ key | upper }}</strong>
+                <span class="statblock-ability-value">{{ value }}</span>
+              </span>{% if not loop.last %}{% endif %}
+            {% endfor %}
+            {% if not loop.last %} {% endif %}
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {% if noteProps.Skills %}
+        <p><strong>Skills</strong>
+          {% if noteProps.Skills[0] is defined %}
+            {% for skill in noteProps.Skills %}
+              {% for key, value in skill %}{{ renderText(key) }}: {{ renderText(value) }}{% if not loop.last %}, {% endif %}{% endfor %}{% if not loop.last %}, {% endif %}
+            {% endfor %}
+          {% else %}
+            {% for key, value in noteProps.Skills %}{{ renderText(key) }}: {{ renderText(value) }}{% if not loop.last %}, {% endif %}{% endfor %}
+          {% endif %}
+        </p>
+      {% endif %}
+
+      {% if noteProps.Languages %}
+        <p><strong>Languages</strong> {{ renderText(noteProps.Languages) }}</p>
+      {% endif %}
+
+      {% if noteProps.Gear %}
+        <p><strong>Gear</strong><br>
+          {% for item in noteProps.Gear %}
+            {{ renderText(item.desc or item) }}{% if not loop.last %}<br>{% endif %}
+          {% endfor %}
+        </p>
+      {% endif %}
+
+      {% if noteProps.defabilities %}
+        {% for item in noteProps.defabilities %}
+          <p>
+            {% if item.name %}<strong>{{ renderText(item.name) }}</strong>{% endif %}
+            {{ renderText(item.desc or item) }}
+          </p>
+        {% endfor %}
+      {% endif %}
+
+      {% if noteProps.specialabil %}
+        {% for item in noteProps.specialabil %}
+          <p>
+            {% if item.name %}<strong>{{ renderText(item.name) }}</strong>{% endif %}
+            {{ renderText(item.desc or item) }}
+          </p>
+        {% endfor %}
+      {% endif %}
+
+      {% if noteProps.otherabil %}
+        <p><strong>Other Abilities</strong> {{ renderText(noteProps.otherabil) }}</p>
+      {% endif %}
+
+      {% if noteProps.Ecology %}
+        {% for item in noteProps.Ecology %}
+          {% if item.name != 'Organization' or not noteProps.Organization %}
+            <p>
+              {% if item.name %}<strong>{{ renderText(item.name) }}</strong>{% endif %}
+              {{ renderText(item.desc or item) }}
+            </p>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+
+      {% if noteProps.Organization %}
+        <p><strong>Organization</strong> {{ renderText(noteProps.Organization) }}</p>
+      {% endif %}
+
+      {% if noteProps.source %}
+        <p><strong>Source</strong> {{ renderText(noteProps.source) }}</p>
+      {% endif %}
+    </div>
+  </div>
+</div>

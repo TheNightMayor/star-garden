@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap');
 
 body {
     padding: 0;
@@ -96,6 +97,128 @@ main, .callout, #tooltip-content {
     rgba(0, 9, 29, 0.576) 50%
   ) !important;
 }
+
+.callout[data-callout="statblocks"] {
+  font-family: 'Orbitron', sans-serif !important;
+  font-size: 0.92rem !important;
+  line-height: 1.35 !important;
+  color: cornflowerblue !important;
+  padding: 0.75rem 0.9rem !important;
+}
+
+.callout[data-callout="statblocks"] .callout-content {
+  padding: 0.25rem 0.35rem !important;
+}
+
+.callout[data-callout="statblocks"] *,
+.callout[data-callout="statblocks"] a {
+  font-family: inherit !important;
+}
+
+.callout[data-callout="statblocks"] a,
+.callout[data-callout="statblocks"] a:visited {
+  color: #2a4f9f !important;
+}
+
+.callout[data-callout="statblocks"] a.internal-link.is-unresolved,
+.callout[data-callout="statblocks"] a.internal-link.is-unresolved:visited {
+  color: gray !important;
+  opacity: 0.8;
+}
+
+.callout[data-callout="statblocks"] a:hover,
+.callout[data-callout="statblocks"] a:focus {
+  color: #173b7b !important;
+  text-decoration: underline !important;
+}
+
+.callout[data-callout="statblocks"] .statblock-header {
+  margin-bottom: 0.85rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid rgba(255,255,255,0.12);
+}
+
+.callout[data-callout="statblocks"] .statblock-header h1 {
+  margin: 0 0 0.35rem;
+  font-size: 1.45rem;
+  line-height: 1.1;
+  color: cornflowerblue !important;
+}
+
+.callout[data-callout="statblocks"] .statblock-header p {
+  margin: 0.15rem 0 0;
+  color: cornflowerblue;
+}
+
+.callout[data-callout="statblocks"] .statblock-section h2 {
+  margin-bottom: 0.35rem;
+  font-size: 0.92rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: cornflowerblue !important;
+}
+
+.callout[data-callout="statblocks"] .statblock-section p,
+.callout[data-callout="statblocks"] .statblock-section li {
+  color: cornflowerblue !important;
+}
+
+.callout[data-callout="statblocks"] .statblock-ability-scores {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 0.35rem 0.5rem;
+  justify-content: center;
+  margin-top: 0.5rem;
+  overflow-x: auto;
+  padding-bottom: 0.15rem;
+}
+.callout[data-callout="statblocks"] .statblock-ability {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 3.3rem;
+  padding: 0.25rem 0.35rem;
+}
+
+.callout[data-callout="statblocks"] .statblock-ability strong {
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.25rem;
+  color: #bcd2ff;
+}
+
+.callout[data-callout="statblocks"] .statblock-ability-value {
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+body.has-note-statblock .content {
+  margin-left: calc(var(--dg-filetree-min-width) + var(--dg-filetree-gap) + 28rem + 20px) !important;
+}
+
+body.has-note-statblock .callout[data-callout="statblocks"] {
+  position: fixed;
+  top: var(--dg-sidebar-top);
+  left: calc(var(--dg-filetree-min-width) + var(--dg-filetree-gap));
+  width: 28rem;
+  max-height: calc(100vh - var(--dg-sidebar-top) - 40px);
+  overflow-y: auto;
+  z-index: 10;
+}
+
+@media (max-width: 1200px) {
+  body.has-note-statblock .content {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  body.has-note-statblock .callout[data-callout="statblocks"] {
+    position: static;
+    width: auto;
+    max-height: none;
+  }
+}
+
 // h1, h2, h3, h4, h5, h6 {
 //   color: cornflowerblue;
 // }

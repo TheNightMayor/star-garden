@@ -17,6 +17,7 @@ const matterOptions = {
   },
 };
 const normalizeFavicon = require("./src/site/normalize-favicon.js");
+const path = require("path");
 
 const FAVICON_SOURCE = "./src/site/favicon.svg";
 const FAVICON_NORMALIZED = "./.cache/favicon.normalized.svg";
@@ -64,21 +65,24 @@ function getAnchorAttributes(filePath, linkTitle) {
 
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   const title = linkTitle ? linkTitle : fileName;
-  let permalink = `/notes/${slugify(fileName)}`;
   let deadLink = false;
+  let permalink = `/notes/${normalizeNotePath(fileName.replace(/\.md$|\.canvas$/, ""))}`;
   try {
-    const startPath = "./src/site/notes/";
-    let fullPath;
-    if (fileName.endsWith(".md") || fileName.endsWith(".canvas")) {
-      fullPath = `${startPath}${fileName}`;
-    } else {
-      fullPath = `${startPath}${fileName}.md`;
-    }
+    const fullPath = resolveNoteFilePath(fileName);
     const file = fs.readFileSync(fullPath, "utf8");
     const frontMatter = matter(file, matterOptions);
+
     if (frontMatter.data.permalink) {
       permalink = frontMatter.data.permalink;
+    } else {
+      const notesDir = path.resolve("./src/site/notes");
+      const relPath = path
+        .relative(notesDir, fullPath)
+        .replace(/\\/g, "/")
+        .replace(/\.md$|\.canvas$/i, "");
+      permalink = `/notes/${normalizeNotePath(relPath)}`;
     }
+
     if (
       frontMatter.data.tags &&
       frontMatter.data.tags.indexOf("gardenEntry") != -1
@@ -110,7 +114,98 @@ function getAnchorAttributes(filePath, linkTitle) {
       "href": `${permalink}${headerLinkPath}`,
     },
     innerHTML: title,
+  };
+}
+
+function normalizeNotePath(fileName) {
+  return fileName
+    .split("/")
+    .map((segment) => slugify(segment))
+    .join("/");
+}
+
+let noteFileLookup = null;
+let noteFileBasenameIndex = null;
+
+function buildNoteFileLookup() {
+  if (noteFileLookup && noteFileBasenameIndex) {
+    return;
   }
+
+  noteFileLookup = new Map();
+  noteFileBasenameIndex = new Map();
+
+  const notesDir = path.resolve("./src/site/notes");
+  function walk(dir) {
+    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+      const fullPath = path.join(dir, entry.name);
+      if (entry.isDirectory()) {
+        walk(fullPath);
+        continue;
+      }
+      if (!entry.name.match(/\.(md|canvas)$/i)) {
+        continue;
+      }
+      const relPath = path
+        .relative(notesDir, fullPath)
+        .replace(/\\/g, "/")
+        .replace(/\.(md|canvas)$/i, "");
+      const lowerRelPath = relPath.toLowerCase();
+      noteFileLookup.set(lowerRelPath, fullPath);
+      const basename = path.basename(relPath).toLowerCase();
+      const candidates = noteFileBasenameIndex.get(basename) || [];
+      candidates.push(fullPath);
+      noteFileBasenameIndex.set(basename, candidates);
+    }
+  }
+
+  walk(notesDir);
+}
+
+function resolveNoteFilePath(fileName) {
+  const normalizedFileName = fileName.replace(/\\/g, "/").trim();
+  const withoutExtension = normalizedFileName.replace(/\.(md|canvas)$/i, "");  const normalizedLookupKey = withoutExtension.toLowerCase();
+  const tryPaths = [];
+  if (normalizedFileName.match(/\.(md|canvas)$/i)) {
+    tryPaths.push(path.join("./src/site/notes", normalizedFileName));
+  } else {
+    tryPaths.push(path.join("./src/site/notes", `${normalizedFileName}.md`));
+    tryPaths.push(path.join("./src/site/notes", `${normalizedFileName}.canvas`));
+    tryPaths.push(path.join("./src/site/notes", normalizedFileName));
+  }
+
+  for (const candidate of tryPaths) {
+    if (fs.existsSync(candidate)) {
+      return candidate;
+    }
+  }
+
+  buildNoteFileLookup();
+  if (noteFileLookup.has(normalizedLookupKey)) {
+    return noteFileLookup.get(normalizedLookupKey);
+  }
+
+  const basename = normalizedLookupKey.split("/").pop();
+  const candidates = noteFileBasenameIndex.get(basename) || [];
+  if (candidates.length === 1) {
+    return candidates[0];
+  }
+
+  if (candidates.length > 1) {
+    const exact = candidates.find((fullPath) => {
+      const rel = path
+        .relative(path.resolve("./src/site/notes"), fullPath)
+        .replace(/\\/g, "/")
+        .replace(/\.(md|canvas)$/i, "");
+      return rel.toLowerCase() === normalizedLookupKey;
+    });
+    if (exact) {
+      return exact;
+    }
+    return candidates[0];
+  }
+
+  return path.join("./src/site/notes", `${withoutExtension}.md`);
 }
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
@@ -361,12 +456,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("link", function(str) {
     return (
       str &&
-      str.replace(/\[\[(.*?\|.*?)\]\]/g, function(match, p1) {
-        //Check if it is an embedded excalidraw drawing or mathjax javascript
+      str.replace(/\[\[([^\]]+?)\]\]/g, function(match, p1) {
+        // Check if it is an embedded excalidraw drawing or mathjax javascript
         if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
           return match;
         }
-        const [fileLink, linkTitle] = p1.split("|");
+        const [fileLink, linkTitle] = p1.split(/\|(.+)/);
 
         return getAnchorLink(fileLink, linkTitle);
       })
