@@ -155,3 +155,8 @@ nav.filetree-sidebar {
       rgba(0, 9, 29) 50%
     );
 }
+
+.filetree-wrapper {
+  width: var(--dg-filetree-width) !important;
+  min-width: var(--dg-filetree-width) !important;
+}
