@@ -2,17 +2,13 @@
 {"dg-publish":true,"dg-path":"Campaign/Compendium/BestiaryDrow Noble Arms Dealer.md","permalink":"/campaign/compendium/bestiary-drow-noble-arms-dealer/","tags":["ChaoticEvil","elf","humanoid","medium"],"dg-note-properties":{"abilitymods":[{"STR":1},{"DEX":3},{"CON":1},{"INT":5},{"WIS":2},{"CHA":8}],"ac":"EAC: 26 KAC: 28","alignment":"CE","class":"[[Envoy]]","climate":"any","combatType":"expert","cr":11,"date created":"Monday, January 1st 2024, 3:13:12 pm","date modified":"Tuesday, July 30th 2024, 10:08:07 pm","defabilities":[{"name":"","desc":"+2 vs. enchantments"},{"name":"[[Immunity (Ex or Su)|Immunities]]","desc":"sleep"},{"name":"SR","desc":"22"},{"name":"Weaknesses","desc":"[[Light Blindness (Ex)]]"}],"EAC":26,"Ecology":[{"name":"Environment","desc":"any (Apostae)"},{"name":"Organization","desc":"solitary, pair, or delegation (1 plus 5–8 drow enforcers)"}],"Environment":"any (Apostae)","environment":"any","Gear":[{"name":"Gear","desc":"[[Kasatha Microcord#Kasatha Microcord, Iv|kasatha microcord IV]] ([[Electrostatic Field#Electrostatic Field, Mk 2| mk 2]],  [[Force Field#Force Field, White|white force field]] [15 hp]"}],"hp":170,"Init":3,"KAC":28,"Languages":"Abyssal, Aklo, Common, Drow, Eoxian","Melee":[{"name":"Melee","desc":"ultrathin longsword +19 to hit (4d8+12 S)"}],"modifier":3,"name":"Drow, Noble Arms Dealer","image":"[[Drow Noble Arms Dealer.png]]","offabilities":[{"name":"Offensive Abilities","desc":"[[Create Darkness (Su)]], limning light"}],"Spells":["**Spell-Like Abilities** (CL 11th)",{"1/day":"[[Dispel Magic]], [[Suggestion]] (DC 19)"},{"At will":"[[Dancing Lights]],[[Flight]](2nd-level)"},{"Constant":"[[Detect Magic]]"}],"otherabil":"[[Envoy Improvisations]] ([[Envoy Improvisations#Hidden Agenda (EX)|hidden agenda]], [[Envoy Improvisations#Improved Get 'em (EX)|improved get ’em]], [[Envoy Improvisations#Improved Hurry (Ex)|improved hurry]], [[Envoy Improvisations#Quick Dispiriting Taunt (EX)|quick dispiriting taunt]])","Perception":26,"planet":"Apostae","Ranged":[{"name":"Ranged","desc":"[[Sonic Pistol#Sonic Pistol, LFD|LFD sonic pistol]] +21 to hit (2d8+11 So; critical defense [DC 20])"}],"RP":6,"saves":[{"Fort":10},{"Ref":12},{"Will":14}],"Senses":"[[darkvision]] 60 ft., [[Detect Magic]]","size":"Medium","Skills":[{"Bluff":21},{"Diplomacy":26},{"Intimidate":26},{"Sense Motive":26},{"Stealth":21}],"source":"Alien Archive","specialabil":[{"name":"Limning Light (Su)","desc":"As a standard action, a drow noble can cause all creatures and objects in a 5-foot-radius burst to shed a pale glow. Creatures outlined by the limning light take a –20 penalty to Stealth checks and don’t benefit from the concealment usually provided by darkness. If an affected creature is benefiting from an effect such as invisibility, all others within line of sight of it become aware of its location (see page 260 of the Starfinder Core Rulebook). This effect lasts for a number of minutes equal to the drow noble’s CR (11 minutes for a drow noble arms dealer). This ability has a range of 100 feet."}],"species":"[[Drow]]","Speed":"30 ft.","statblock":true,"subtype":"(elf)","tags":["ChaoticEvil","elf","humanoid","medium"],"type":"humanoid","XP":12800}}
 ---
 
-
-```statblock
-creature: Drow, Noble Arms Dealer
-```
-
 ## Drow Noble Arms Dealer Cr 11
 
-## Extra Content
+>Extra Content
+>
+>The following extra content was found for this creature: 
+> - [[Drow]] Race Entry
 
-The following extra content was found for this creature: 
-\- Drow Race Entry
 With purple skin and white hair, drow are physically beautiful but merciless. Common drow form the majority of civilian and military forces and are governed by more powerful drow nobles. This strictly matriarchal culture leaves few opportunities for a common male, and training as an enforcer for a noble house or arms dealer is one of only a few ways a drow male can secure a somewhat comfortable life—if not necessarily a long one.
 defabilities: 
   - name: DR

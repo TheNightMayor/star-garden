@@ -2,11 +2,6 @@
 {"dg-publish":true,"dg-path":"Campaign/Compendium/BestiaryIkeshti Revener.md","permalink":"/campaign/compendium/bestiary-ikeshti-revener/","tags":["humanoid","ikeshti","large","Neutral"],"dg-note-properties":{"abilitymods":[{"STR":3},{"DEX":2},{"CON":5},{"INT":-3},{"WIS":1},{"CHA":0}],"ac":"EAC: 18 KAC: 20","alignment":"N","climate":"any","combatType":"combatant","cr":5,"date created":"Monday, January 1st 2024, 3:13:12 pm","date modified":"Tuesday, July 30th 2024, 10:08:13 pm","EAC":18,"Ecology":[{"name":"Environment","desc":"any deserts, hills, or mountains (Akiton)"},{"name":"Organization","desc":"solitary"}],"Environment":"any deserts, hills, or mountains (Akiton)","hp":84,"Init":2,"KAC":20,"Languages":"Akitonian (can speak and understand only simple words)","Melee":[{"name":"Melee","desc":"claw +11 to hit (2d6+10 S)"}],"modifier":2,"name":"Ikeshti, Revener","image":"[ikesti revener.png](/img/user/Images/Aliens/Enemies/humanoid/ikesti%20revener/ikesti%20revener.png)","Perception":11,"planet":"Akiton","reach":"10 ft.","saves":[{"Fort":9},{"Ref":7},{"Will":4}],"size":"Large","Skills":[{"Athletics":16},{"Acrobatics":11},{"Stealth":11}],"source":"Alien Archive","space":"10 ft.","Speed":"30 ft., climb 15 ft.","statblock":true,"subtype":"(ikeshti)","tags":["humanoid","ikeshti","large","Neutral"],"type":"humanoid","XP":1600}}
 ---
 
-
-```statblock
-creature: Ikeshti, Revener
-```
-
 ## Ikeshti Rivener Cr 5
 
 keshtis are a hardy race of lizardfolk native to the deserts and hills of Akiton, and their convoluted life cycle provides the blueprint for their civilization. The physiology and psychology of ikeshtis shift drastically as they go through childhood, adolescence, mating, and one of three adult paths.
