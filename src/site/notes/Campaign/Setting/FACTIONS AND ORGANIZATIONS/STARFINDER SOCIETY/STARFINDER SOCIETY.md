@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/factions-and-organizations/starfinder-society/starfinder-society/","dg-note-properties":{"aliases":["the society","society","starfinders","starfinder","sfs"],"tags":[],"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/FACTIONS AND ORGANIZATIONS/STARFINDER SOCIETY/STARFINDER SOCIETY.md","permalink":"/infosphere/history/factions-and-organizations/starfinder-society/starfinder-society/","dg-note-properties":{"aliases":["the society","society","starfinders","starfinder","sfs"],"tags":[],"cssclasses":null}}
 ---
 
 

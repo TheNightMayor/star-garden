@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/lore/days-and-months/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/Lore/DAYS AND MONTHS.md","permalink":"/infosphere/history/lore/days-and-months/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

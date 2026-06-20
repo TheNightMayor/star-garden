@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/the-great-beyond/the-inner-sphere/the-drift/","dg-note-properties":{"aliases":"Drift","tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/BEYOND THE PACT WORLDS/THE GREAT BEYOND/THE INNER SPHERE/The Drift.md","permalink":"/infosphere/history/pact-worlds-lore/beyond-the-pact-worlds/the-great-beyond/the-inner-sphere/the-drift/","dg-note-properties":{"aliases":"Drift","tags":null,"cssclasses":null}}
 ---
 
 

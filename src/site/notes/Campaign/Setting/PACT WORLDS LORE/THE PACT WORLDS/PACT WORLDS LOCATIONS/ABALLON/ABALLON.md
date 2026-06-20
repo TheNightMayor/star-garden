@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/the-pact-worlds/pact-worlds-locations/aballon/aballon/","title":"The Forge","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null,"name":"Aballon","title":"The Forge","diameter":"×1/3","mass":"×1/27","gravity":"×1/3","atmosphere":"Thin","day":"12 hours","year":"90 days"}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/THE PACT WORLDS/PACT WORLDS LOCATIONS/ABALLON/ABALLON.md","permalink":"/infosphere/history/pact-worlds-lore/the-pact-worlds/pact-worlds-locations/aballon/aballon/","title":"The Forge","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null,"name":"Aballon","title":"The Forge","diameter":"×1/3","mass":"×1/27","gravity":"×1/3","atmosphere":"Thin","day":"12 hours","year":"90 days"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/other-worlds/the-vast/orikolai/","dg-note-properties":{"aliases":null,"cssclasses":null,"tags":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/BEYOND THE PACT WORLDS/OTHER WORLDS/THE VAST/ORIKOLAI.md","permalink":"/infosphere/history/pact-worlds-lore/beyond-the-pact-worlds/other-worlds/the-vast/orikolai/","dg-note-properties":{"aliases":null,"cssclasses":null,"tags":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
 ---
 
 

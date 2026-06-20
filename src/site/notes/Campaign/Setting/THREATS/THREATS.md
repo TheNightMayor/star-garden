@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/threats/threats/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/THREATS/THREATS.md","permalink":"/infosphere/history/threats/threats/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

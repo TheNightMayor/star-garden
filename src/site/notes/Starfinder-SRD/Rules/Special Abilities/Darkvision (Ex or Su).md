@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/special-abilities/darkvision-ex-or-su/","dg-note-properties":{"cssclasses":null,"aliases":["darkvision"],"tags":[]}}
+{"dg-publish":true,"dg-path":"Rules/Special Abilities/Darkvision (Ex or Su).md","permalink":"/rules/special-abilities/darkvision-ex-or-su/","dg-note-properties":{"cssclasses":null,"aliases":["darkvision"],"tags":[]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/factions-and-organizations/factions-and-organizations/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/FACTIONS AND ORGANIZATIONS/FACTIONS AND ORGANIZATIONS.md","permalink":"/infosphere/history/factions-and-organizations/factions-and-organizations/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

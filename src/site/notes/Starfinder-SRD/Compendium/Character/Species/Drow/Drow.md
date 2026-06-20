@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/drow/drow/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Dex, +2 Cha, -2 Con","blurb":"[Drow.png](/img/user/Images/Aliens/Species/Drow/Drow.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:14 pm","hitpoints":4,"size":"Medium","sizeandtype":"Drow are Medium humanoids with the elf subtype.","tags":[],"type":"humanoid (elf)"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Drow/Drow.md","permalink":"/rules/character/species/drow/drow/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Dex, +2 Cha, -2 Con","blurb":"[Drow.png](/img/user/Images/Aliens/Species/Drow/Drow.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:14 pm","hitpoints":4,"size":"Medium","sizeandtype":"Drow are Medium humanoids with the elf subtype.","tags":[],"type":"humanoid (elf)"}}
 ---
 
 

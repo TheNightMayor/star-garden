@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/damage/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Damage.md","permalink":"/rules/combat-mechanics/damage/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

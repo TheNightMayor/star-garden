@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/half-orc/half-orc/","dg-note-properties":{"abilitymodifiers":"+2 to any one ability score","aliases":["Half-orc"],"blurb":"[Half-Orc.png](/img/user/Images/Aliens/Species/Half-Orc/Half-Orc.png)","cssclasses":[],"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:15 pm","hitpoints":"6","linter-yaml-title-alias":"Half-orc","section":"legacy","size":"Medium","sizeandtype":"Half-orcs are Medium humanoids with both the human and orc subtypes.","tags":[],"type":"humanoid (orc, human)"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Half-Orc/Half-Orc.md","permalink":"/rules/character/species/half-orc/half-orc/","dg-note-properties":{"abilitymodifiers":"+2 to any one ability score","aliases":["Half-orc"],"blurb":"[Half-Orc.png](/img/user/Images/Aliens/Species/Half-Orc/Half-Orc.png)","cssclasses":[],"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:15 pm","hitpoints":"6","linter-yaml-title-alias":"Half-orc","section":"legacy","size":"Medium","sizeandtype":"Half-orcs are Medium humanoids with both the human and orc subtypes.","tags":[],"type":"humanoid (orc, human)"}}
 ---
 
 

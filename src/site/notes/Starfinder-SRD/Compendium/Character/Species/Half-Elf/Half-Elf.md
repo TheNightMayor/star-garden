@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/half-elf/half-elf/","dg-note-properties":{"abilitymodifiers":"+2 to any one ability score","aliases":["Half-elf"],"blurb":"[Half-Elf.png](/img/user/Images/Aliens/Species/Half-Elf/Half-Elf.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:15 pm","hitpoints":"4","linter-yaml-title-alias":"Half-elf","section":"legacy","size":"Medium","sizeandtype":"Half-elves are Medium humanoids with both the elf and human subtypes.","tags":[],"type":"humanoid (elf,human)"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Half-Elf/Half-Elf.md","permalink":"/rules/character/species/half-elf/half-elf/","dg-note-properties":{"abilitymodifiers":"+2 to any one ability score","aliases":["Half-elf"],"blurb":"[Half-Elf.png](/img/user/Images/Aliens/Species/Half-Elf/Half-Elf.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:15 pm","hitpoints":"4","linter-yaml-title-alias":"Half-elf","section":"legacy","size":"Medium","sizeandtype":"Half-elves are Medium humanoids with both the elf and human subtypes.","tags":[],"type":"humanoid (elf,human)"}}
 ---
 
 

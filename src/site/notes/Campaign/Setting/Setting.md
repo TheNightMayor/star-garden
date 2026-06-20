@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/setting/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/Setting.md","permalink":"/infosphere/history/setting/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

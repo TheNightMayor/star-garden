@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/hobgoblin/hobgoblin/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Dex","blurb":"[Hobgoblin.png](/img/user/Images/Aliens/Species/Hobgoblin/Hobgoblin.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:15 pm","hitpoints":"6","size":"Medium","sizeandtype":"Hobgoblins are Medium humanoids with the goblinoid subtype.","tags":[],"type":"humanoid (goblinoid)"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Hobgoblin/Hobgoblin.md","permalink":"/rules/character/species/hobgoblin/hobgoblin/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Dex","blurb":"[Hobgoblin.png](/img/user/Images/Aliens/Species/Hobgoblin/Hobgoblin.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:15 pm","hitpoints":"6","size":"Medium","sizeandtype":"Hobgoblins are Medium humanoids with the goblinoid subtype.","tags":[],"type":"humanoid (goblinoid)"}}
 ---
 
 

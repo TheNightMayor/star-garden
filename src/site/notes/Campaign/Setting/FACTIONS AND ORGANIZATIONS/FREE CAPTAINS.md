@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/factions-and-organizations/free-captains/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/FACTIONS AND ORGANIZATIONS/FREE CAPTAINS.md","permalink":"/infosphere/history/factions-and-organizations/free-captains/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

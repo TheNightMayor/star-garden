@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/pact-worlds-timeline/67-stardust-plague/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null,"aat-event-start-date":67,"aat-render-enabled":true,"aat-event-title":"Stardust Plague","timelines":["Pact Worlds Timeline"]}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/PACT WORLDS TIMELINE/67 Stardust Plague.md","permalink":"/infosphere/history/pact-worlds-lore/pact-worlds-timeline/67-stardust-plague/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null,"aat-event-start-date":67,"aat-render-enabled":true,"aat-event-title":"Stardust Plague","timelines":["Pact Worlds Timeline"]}}
 ---
 
 The Stardust Plague was a terrible pathogen that broke out in the Pact Worlds in 67 AG and ended up killing millions of individuals.1 Its devastation was thought to have been brought home and spread by unchecked exploration of the galaxy through the (at the time) recently discovered means of Drift travel 

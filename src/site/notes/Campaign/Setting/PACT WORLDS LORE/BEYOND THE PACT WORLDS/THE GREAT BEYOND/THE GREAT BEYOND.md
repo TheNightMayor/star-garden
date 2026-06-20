@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/the-great-beyond/the-great-beyond/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/BEYOND THE PACT WORLDS/THE GREAT BEYOND/THE GREAT BEYOND.md","permalink":"/infosphere/history/pact-worlds-lore/beyond-the-pact-worlds/the-great-beyond/the-great-beyond/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 # THE GREAT BEYOND
 All of what most mortals think of as reality, including the Pact Worlds’ entire galaxy, is part of a realm of existence called the Material Plane. Yet this is only one tiny portion of the multiverse, which is a vast conglomeration of planes and dimensions sometimes called the Great Beyond: a place of departed souls, gods, and strange creatures beyond mortal ken. Scholars usually divide these planes into the Inner Sphere and the Outer Sphere, though these names and attempts to map their relationships can’t hope to truly describe the incomprehensible geometry of overlapping infinities. 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/the-great-beyond/the-inner-sphere/the-inner-sphere/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/infosphere/history/pact-worlds-lore/beyond-the-pact-worlds/the-great-beyond/the-inner-sphere/the-inner-sphere/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -24,7 +24,7 @@ The planes of the Inner Sphere can be thought of like a fruit, with the Elementa
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/the-great-beyond/the-astral-plane/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/infosphere/history/pact-worlds-lore/beyond-the-pact-worlds/the-great-beyond/the-astral-plane/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -37,7 +37,7 @@ Acting as a buffer between the Inner Sphere and the Outer Sphere, the void of th
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/the-great-beyond/the-outer-sphere/the-outer-sphere/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/infosphere/history/pact-worlds-lore/beyond-the-pact-worlds/the-great-beyond/the-outer-sphere/the-outer-sphere/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

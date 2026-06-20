@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/other-worlds/the-vast/khyyros/","dg-note-properties":{"aliases":null,"cssclasses":null,"tags":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/BEYOND THE PACT WORLDS/OTHER WORLDS/THE VAST/Khyyros.md","permalink":"/infosphere/history/pact-worlds-lore/beyond-the-pact-worlds/other-worlds/the-vast/khyyros/","dg-note-properties":{"aliases":null,"cssclasses":null,"tags":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
 ---
 
  Khyyros, a planet crisscrossed with deep crevasses from near-constant seismic activity. It’s located in a small, single-sun system alongside two other planets. The closest world to the sun burns, while the furthest freezes, making Khyyros the only planet in the system able to sustain most life forms.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/faith-and-religion/starfinder-core-deities/zon-kuthon/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/FAITH AND RELIGION/STARFINDER CORE DEITIES/ZON-KUTHON.md","permalink":"/infosphere/history/faith-and-religion/starfinder-core-deities/zon-kuthon/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

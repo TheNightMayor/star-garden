@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/dwarf/dwarf/","dg-note-properties":{"aliases":["Dwarves","dwarven","dwarf","dwarf’s"],"abilitymodifiers":"+2 Con, +2 Wis, -2 Cha","blurb":"[Dwarf.png](/img/user/Images/Aliens/Species/Dwarf/Dwarf.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:14 pm","hitpoints":6,"section":"legacy","size":"Medium","sizeandtype":"Dwarves are Medium humanoids with the dwarf subtype.","tags":[],"type":"humanoid (dwarf)","stats":null}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Dwarf/Dwarf.md","permalink":"/rules/character/species/dwarf/dwarf/","dg-note-properties":{"aliases":["Dwarves","dwarven","dwarf","dwarf’s"],"abilitymodifiers":"+2 Con, +2 Wis, -2 Cha","blurb":"[Dwarf.png](/img/user/Images/Aliens/Species/Dwarf/Dwarf.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:14 pm","hitpoints":6,"section":"legacy","size":"Medium","sizeandtype":"Dwarves are Medium humanoids with the dwarf subtype.","tags":[],"type":"humanoid (dwarf)","stats":null}}
 ---
 
 

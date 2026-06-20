@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/weapons/advanced-melee/one-handed-advanced-melee/pulse-gauntlet/","dg-note-properties":{"aliases":null,"Hands":"One-Handed","Notetype":"Weapon","price":null,"tags":null,"type":"Advanced-Melee"}}
+{"dg-publish":true,"dg-path":"Rules/Items/Weapons/Advanced Melee/One Handed - Advanced Melee/Pulse Gauntlet.md","permalink":"/rules/items/weapons/advanced-melee/one-handed-advanced-melee/pulse-gauntlet/","dg-note-properties":{"aliases":null,"Hands":"One-Handed","Notetype":"Weapon","price":null,"tags":null,"type":"Advanced-Melee"}}
 ---
 
 When a pulse gauntlet strikes its target, it releases a surge of sonic energy that can knock the target down. Pulse gauntlets are made of heavy-duty nylon with reinforced pads over the items’ knuckles.

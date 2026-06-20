@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/weapons/advanced-melee/two-handed-advanced-melee/pike/","dg-note-properties":{"cssclasses":null,"aliases":[],"Hands":"Two-Handed","Notetype":"Weapon","price":null,"tags":[],"type":"Advanced-Melee"}}
+{"dg-publish":true,"dg-path":"Rules/Items/Weapons/Advanced Melee/Two Handed - Advanced Melee/Pike.md","permalink":"/rules/items/weapons/advanced-melee/two-handed-advanced-melee/pike/","dg-note-properties":{"cssclasses":null,"aliases":[],"Hands":"Two-Handed","Notetype":"Weapon","price":null,"tags":[],"type":"Advanced-Melee"}}
 ---
 
 

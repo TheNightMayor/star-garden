@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/faith-and-religion/faith-and-religion/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/FAITH AND RELIGION/FAITH AND RELIGION.md","permalink":"/infosphere/history/faith-and-religion/faith-and-religion/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

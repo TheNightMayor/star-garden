@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/defining-effects/descriptors/descriptors/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Defining Effects/Descriptors/Descriptors.md","permalink":"/rules/combat-mechanics/defining-effects/descriptors/descriptors/","dg-note-properties":{}}
 ---
 
 # Descriptors

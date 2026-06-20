@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/pact-worlds-timeline/83-shirren-first-contact/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null,"aat-event-start-date":83,"aat-render-enabled":true,"aat-event-title":"First Contact- Shirren","timelines":["Pact Worlds Timeline"]}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/PACT WORLDS TIMELINE/83 Shirren First Contact.md","permalink":"/infosphere/history/pact-worlds-lore/pact-worlds-timeline/83-shirren-first-contact/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null,"aat-event-start-date":83,"aat-render-enabled":true,"aat-event-title":"First Contact- Shirren","timelines":["Pact Worlds Timeline"]}}
 ---
 
 

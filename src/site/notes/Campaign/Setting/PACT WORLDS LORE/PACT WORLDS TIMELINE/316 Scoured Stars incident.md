@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/pact-worlds-timeline/316-scoured-stars-incident/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null,"aat-event-start-date":316,"aat-event-end-date":318,"aat-event-title":"Scoured Stars Incident","aat-render-enabled":true,"timelines":["Pact Worlds Timeline"]}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/PACT WORLDS TIMELINE/316 Scoured Stars incident.md","permalink":"/infosphere/history/pact-worlds-lore/pact-worlds-timeline/316-scoured-stars-incident/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null,"aat-event-start-date":316,"aat-event-end-date":318,"aat-event-title":"Scoured Stars Incident","aat-render-enabled":true,"timelines":["Pact Worlds Timeline"]}}
 ---
 
 The Starfinder Society elects the kasatha explorer Jadnura as its First Seeker.

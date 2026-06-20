@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/weapons/advanced-melee/one-handed-advanced-melee/taclash/","dg-note-properties":{"aliases":null,"Hands":"One-Handed","Notetype":"Weapon","price":null,"tags":null,"type":"Advanced-Melee"}}
+{"dg-publish":true,"dg-path":"Rules/Items/Weapons/Advanced Melee/One Handed - Advanced Melee/Taclash.md","permalink":"/rules/items/weapons/advanced-melee/one-handed-advanced-melee/taclash/","dg-note-properties":{"aliases":null,"Hands":"One-Handed","Notetype":"Weapon","price":null,"tags":null,"type":"Advanced-Melee"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/the-pact-worlds/government/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/THE PACT WORLDS/Government.md","permalink":"/infosphere/history/pact-worlds-lore/the-pact-worlds/government/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

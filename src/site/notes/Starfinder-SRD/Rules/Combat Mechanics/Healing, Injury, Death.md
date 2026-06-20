@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/healing-injury-death/","tags":["healing","death","stamina","resolve"],"dg-note-properties":{"aliases":null,"tags":["healing","death","stamina","resolve"]}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Healing, Injury, Death.md","permalink":"/rules/combat-mechanics/healing-injury-death/","tags":["healing","death","stamina","resolve"],"dg-note-properties":{"aliases":null,"tags":["healing","death","stamina","resolve"]}}
 ---
 
 

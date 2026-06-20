@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/kitsune/kitsune/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Dex, +2 Cha, –2 Str","blurb":"[Kitsune.png](/img/user/Images/Aliens/Species/Kitsune/Kitsune.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:16 pm","hitpoints":4,"size":"Medium","sizeandtype":"Kitsune are Humanoids with the kitsune and shapechanger subtype.","tags":[],"type":"humanoid (kitsune, shapechanger)"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Kitsune/Kitsune.md","permalink":"/rules/character/species/kitsune/kitsune/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Dex, +2 Cha, –2 Str","blurb":"[Kitsune.png](/img/user/Images/Aliens/Species/Kitsune/Kitsune.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:16 pm","hitpoints":4,"size":"Medium","sizeandtype":"Kitsune are Humanoids with the kitsune and shapechanger subtype.","tags":[],"type":"humanoid (kitsune, shapechanger)"}}
 ---
 
 

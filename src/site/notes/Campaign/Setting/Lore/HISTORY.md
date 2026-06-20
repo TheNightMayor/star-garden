@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/lore/history/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/Lore/HISTORY.md","permalink":"/infosphere/history/lore/history/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

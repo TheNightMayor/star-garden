@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/weapons/grenades/frag-grenade/","dg-note-properties":{"aliases":null,"price":null,"tags":null,"type":"Grenades"}}
+{"dg-publish":true,"dg-path":"Rules/Items/Weapons/Grenades/Frag Grenade.md","permalink":"/rules/items/weapons/grenades/frag-grenade/","dg-note-properties":{"aliases":null,"price":null,"tags":null,"type":"Grenades"}}
 ---
 
 

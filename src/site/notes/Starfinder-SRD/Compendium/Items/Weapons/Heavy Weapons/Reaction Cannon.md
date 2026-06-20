@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/weapons/heavy-weapons/reaction-cannon/","dg-note-properties":{"cssclasses":null,"aliases":[],"Notetype":"Weapon","price":null,"tags":[],"type":"Heavy Weapon"}}
+{"dg-publish":true,"dg-path":"Rules/Items/Weapons/Heavy Weapons/Reaction Cannon.md","permalink":"/rules/items/weapons/heavy-weapons/reaction-cannon/","dg-note-properties":{"cssclasses":null,"aliases":[],"Notetype":"Weapon","price":null,"tags":[],"type":"Heavy Weapon"}}
 ---
 
 

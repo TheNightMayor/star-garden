@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/ikeshti/ikeshti/","dg-note-properties":{"aliases":null,"abilitymodifiers":"+2 Dex, +2 Int, -2 Wis","blurb":"[Ikeshti.png](/img/user/Images/Aliens/Species/Ikeshti/Ikeshti.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:16 pm","hitpoints":4,"size":"Small","sizeandtype":"Ikeshtis are Small humanoids with the ikeshti subtype.","tags":[],"type":"humanoid (ikeshti)"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Ikeshti/Ikeshti.md","permalink":"/rules/character/species/ikeshti/ikeshti/","dg-note-properties":{"aliases":null,"abilitymodifiers":"+2 Dex, +2 Int, -2 Wis","blurb":"[Ikeshti.png](/img/user/Images/Aliens/Species/Ikeshti/Ikeshti.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:16 pm","hitpoints":4,"size":"Small","sizeandtype":"Ikeshtis are Small humanoids with the ikeshti subtype.","tags":[],"type":"humanoid (ikeshti)"}}
 ---
 
 

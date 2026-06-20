@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/beyond-the-pact-worlds/beyond-the-pact-worlds/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/BEYOND THE PACT WORLDS/BEYOND THE PACT WORLDS.md","permalink":"/infosphere/history/pact-worlds-lore/beyond-the-pact-worlds/beyond-the-pact-worlds/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

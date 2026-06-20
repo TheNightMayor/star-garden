@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/the-pact-worlds/pact-worlds-locations/absalom-station/absalom-station/","tags":["location/major","station"],"dg-note-properties":{"tags":["location/major","station"],"aliases":["the Station","Absalom"],"cssclasses":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/THE PACT WORLDS/PACT WORLDS LOCATIONS/Absalom Station/Absalom Station.md","permalink":"/infosphere/history/pact-worlds-lore/the-pact-worlds/pact-worlds-locations/absalom-station/absalom-station/","tags":["location/major","station"],"dg-note-properties":{"tags":["location/major","station"],"aliases":["the Station","Absalom"],"cssclasses":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
 ---
 
 # ABSALOM STATION

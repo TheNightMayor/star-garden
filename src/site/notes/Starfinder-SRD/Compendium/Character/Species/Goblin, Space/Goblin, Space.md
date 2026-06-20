@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/goblin-space/goblin-space/","dg-note-properties":{"aliases":["Goblin","Space","space goblin","goblin"],"blurb":"[Goblin.png](/img/user/Images/Aliens/Species/Goblin,%20Space/Goblin.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:15 pm","linter-yaml-title-alias":"Goblin, Space","size":"Small","sizeandtype":"Space goblins are Small humanoids with the goblinoid subtype.","tags":[],"type":"humanoid (goblinoid)"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Goblin, Space/Goblin, Space.md","permalink":"/rules/character/species/goblin-space/goblin-space/","dg-note-properties":{"aliases":["Goblin","Space","space goblin","goblin"],"blurb":"[Goblin.png](/img/user/Images/Aliens/Species/Goblin,%20Space/Goblin.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:15 pm","linter-yaml-title-alias":"Goblin, Space","size":"Small","sizeandtype":"Space goblins are Small humanoids with the goblinoid subtype.","tags":[],"type":"humanoid (goblinoid)"}}
 ---
 
 

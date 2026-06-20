@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/defining-effects/duration/duration/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Defining Effects/Duration/Duration.md","permalink":"/rules/combat-mechanics/defining-effects/duration/duration/","dg-note-properties":{}}
 ---
 
 # Duration

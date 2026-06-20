@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/defining-effects/area/area/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Defining Effects/Area/Area.md","permalink":"/rules/combat-mechanics/defining-effects/area/area/","dg-note-properties":{}}
 ---
 
 # Area

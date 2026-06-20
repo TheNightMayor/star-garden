@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/bonus-penalties/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Bonus,  Penalties.md","permalink":"/rules/combat-mechanics/bonus-penalties/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/brenneri/brenneri/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Con, +2 Cha, -2 Int","blurb":"[Brenneri.png](/img/user/Images/Aliens/Species/Brenneri/Brenneri.png)","cssclasses":"hcl","date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:13 pm","hitpoints":4,"size":"Medium","sizeandtype":"Brenneris are Medium humanoids with the brenneri subtype.","tags":[],"type":"humanoid (brenneri)"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Brenneri/Brenneri.md","permalink":"/rules/character/species/brenneri/brenneri/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Con, +2 Cha, -2 Int","blurb":"[Brenneri.png](/img/user/Images/Aliens/Species/Brenneri/Brenneri.png)","cssclasses":"hcl","date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:13 pm","hitpoints":4,"size":"Medium","sizeandtype":"Brenneris are Medium humanoids with the brenneri subtype.","tags":[],"type":"humanoid (brenneri)"}}
 ---
 
 

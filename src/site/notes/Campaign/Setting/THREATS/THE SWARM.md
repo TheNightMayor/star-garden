@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/threats/the-swarm/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/THREATS/THE SWARM.md","permalink":"/infosphere/history/threats/the-swarm/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/weapons/grenades/shock-grenade/","dg-note-properties":{"aliases":null,"price":null,"tags":null,"type":"Grenades"}}
+{"dg-publish":true,"dg-path":"Rules/Items/Weapons/Grenades/Shock Grenade.md","permalink":"/rules/items/weapons/grenades/shock-grenade/","dg-note-properties":{"aliases":null,"price":null,"tags":null,"type":"Grenades"}}
 ---
 
 

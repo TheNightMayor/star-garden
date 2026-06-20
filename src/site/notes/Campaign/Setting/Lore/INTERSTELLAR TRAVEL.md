@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/lore/interstellar-travel/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/Lore/INTERSTELLAR TRAVEL.md","permalink":"/infosphere/history/lore/interstellar-travel/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

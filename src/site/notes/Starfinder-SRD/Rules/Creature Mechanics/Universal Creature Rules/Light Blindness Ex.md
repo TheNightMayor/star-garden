@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/creature-mechanics/universal-creature-rules/light-blindness-ex/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Creature Mechanics/Universal Creature Rules/Light Blindness Ex.md","permalink":"/rules/creature-mechanics/universal-creature-rules/light-blindness-ex/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

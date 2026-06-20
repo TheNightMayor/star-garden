@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/lost-golarion/","dg-note-properties":{"aliases":"Golarion","tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/LOST GOLARION.md","permalink":"/infosphere/history/pact-worlds-lore/lost-golarion/","dg-note-properties":{"aliases":"Golarion","tags":null,"cssclasses":null}}
 ---
 
 

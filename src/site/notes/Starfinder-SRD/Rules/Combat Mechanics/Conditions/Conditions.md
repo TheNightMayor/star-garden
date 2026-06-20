@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/conditions/conditions/","dg-note-properties":{"aliases":[],"tags":[]}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Conditions/Conditions.md","permalink":"/rules/combat-mechanics/conditions/conditions/","dg-note-properties":{"aliases":[],"tags":[]}}
 ---
 
 

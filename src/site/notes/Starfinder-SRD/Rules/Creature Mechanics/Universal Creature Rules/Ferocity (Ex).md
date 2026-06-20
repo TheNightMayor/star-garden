@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/creature-mechanics/universal-creature-rules/ferocity-ex/","tags":[null],"dg-note-properties":{"aliases":[null],"tags":[null]}}
+{"dg-publish":true,"dg-path":"Rules/Creature Mechanics/Universal Creature Rules/Ferocity (Ex).md","permalink":"/rules/creature-mechanics/universal-creature-rules/ferocity-ex/","tags":[null],"dg-note-properties":{"aliases":[null],"tags":[null]}}
 ---
 
 ## Ferocity (Ex)

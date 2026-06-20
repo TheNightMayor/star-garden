@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/threats/aspis-consortium/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/THREATS/ASPIS CONSORTIUM.md","permalink":"/infosphere/history/threats/aspis-consortium/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

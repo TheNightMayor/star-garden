@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/the-pact-worlds/pact-worlds-locations/triaxus/triaxus/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/THE PACT WORLDS/PACT WORLDS LOCATIONS/TRIAXUS/TRIAXUS.md","permalink":"/infosphere/history/pact-worlds-lore/the-pact-worlds/pact-worlds-locations/triaxus/triaxus/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null,"name":null,"title":null,"diameter":null,"mass":null,"gravity":null,"atmosphere":null,"day":null,"year":null}}
 ---
 
 
