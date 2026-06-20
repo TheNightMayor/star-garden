@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/weapons/longarms/laser-rifle/","dg-note-properties":{"aliases":null,"Notetype":"Weapon","price":null,"tags":null,"type":"Longarms"}}
+{"dg-publish":true,"dg-path":"Rules/Items/Weapons/Longarms/Laser Rifle.md","permalink":"/rules/items/weapons/longarms/laser-rifle/","dg-note-properties":{"aliases":null,"Notetype":"Weapon","price":null,"tags":null,"type":"Longarms"}}
 ---
 
 

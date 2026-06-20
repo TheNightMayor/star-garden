@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/armor/armor-upgrades/jump-jets/","dg-note-properties":{"aliases":null,"ArmorType":"Light, Heavy","Item":null,"NoteType":"Armor","price":1000,"Slots":1,"tags":null,"Type":"Armor Upgrades"}}
+{"dg-publish":true,"dg-path":"Rules/Items/Armor/Armor Upgrades/Jump Jets.md","permalink":"/rules/items/armor/armor-upgrades/jump-jets/","dg-note-properties":{"aliases":null,"ArmorType":"Light, Heavy","Item":null,"NoteType":"Armor","price":1000,"Slots":1,"tags":null,"Type":"Armor Upgrades"}}
 ---
 
 

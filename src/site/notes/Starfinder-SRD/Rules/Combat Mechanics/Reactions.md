@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/reactions/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Reactions.md","permalink":"/rules/combat-mechanics/reactions/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

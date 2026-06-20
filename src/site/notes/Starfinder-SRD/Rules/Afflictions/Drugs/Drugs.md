@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/afflictions/drugs/drugs/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Afflictions/Drugs/Drugs.md","permalink":"/rules/afflictions/drugs/drugs/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

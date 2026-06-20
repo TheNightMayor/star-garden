@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/critical-hit-effects/critical-hit-effects/","dg-note-properties":{"cssclasses":null,"aliases":[],"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Critical Hit Effects/Critical Hit Effects.md","permalink":"/rules/combat-mechanics/critical-hit-effects/critical-hit-effects/","dg-note-properties":{"cssclasses":null,"aliases":[],"tags":null}}
 ---
 
 

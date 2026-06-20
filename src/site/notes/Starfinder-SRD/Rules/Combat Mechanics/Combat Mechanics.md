@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/combat-mechanics/","dg-note-properties":{"cssclasses":null,"aliases":[],"tags":[]}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Combat Mechanics.md","permalink":"/rules/combat-mechanics/combat-mechanics/","dg-note-properties":{"cssclasses":null,"aliases":[],"tags":[]}}
 ---
 
 

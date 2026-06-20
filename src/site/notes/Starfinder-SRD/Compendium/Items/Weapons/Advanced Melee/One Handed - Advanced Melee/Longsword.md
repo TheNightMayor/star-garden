@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/weapons/advanced-melee/one-handed-advanced-melee/longsword/","dg-note-properties":{"aliases":[],"Hands":"One-Handed","Notetype":"Weapon","price":null,"tags":[],"type":"Advanced-Melee"}}
+{"dg-publish":true,"dg-path":"Rules/Items/Weapons/Advanced Melee/One Handed - Advanced Melee/Longsword.md","permalink":"/rules/items/weapons/advanced-melee/one-handed-advanced-melee/longsword/","dg-note-properties":{"aliases":[],"Hands":"One-Handed","Notetype":"Weapon","price":null,"tags":[],"type":"Advanced-Melee"}}
 ---
 
 

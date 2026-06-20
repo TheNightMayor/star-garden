@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/ammunition/rounds/","dg-note-properties":{"aliases":null,"price":null,"tags":null,"type":"Ammo"}}
+{"dg-publish":true,"dg-path":"Rules/Items/Ammunition/Rounds.md","permalink":"/rules/items/ammunition/rounds/","dg-note-properties":{"aliases":null,"price":null,"tags":null,"type":"Ammo"}}
 ---
 
 

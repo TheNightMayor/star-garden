@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/afflictions/poisons/poisons/","dg-note-properties":{"cssclasses":null,"aliases":[],"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Afflictions/Poisons/Poisons.md","permalink":"/rules/afflictions/poisons/poisons/","dg-note-properties":{"cssclasses":null,"aliases":[],"tags":null}}
 ---
 
 

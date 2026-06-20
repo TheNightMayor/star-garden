@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/threats/cult-of-the-devourer/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/THREATS/CULT OF THE DEVOURER.md","permalink":"/infosphere/history/threats/cult-of-the-devourer/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

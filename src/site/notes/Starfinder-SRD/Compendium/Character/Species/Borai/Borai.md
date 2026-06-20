@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/borai/borai/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Con, +2 Cha, -2 Wis","blurb":"[Borai.png](/img/user/Images/Aliens/Species/Borai/Borai.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:13 pm","hitpoints":6,"size":"Medium","sizeandtype":"Borais are Medium undead, but they do not gain normal undead immunities.","tags":[],"type":"undead"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Borai/Borai.md","permalink":"/rules/character/species/borai/borai/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Con, +2 Cha, -2 Wis","blurb":"[Borai.png](/img/user/Images/Aliens/Species/Borai/Borai.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:13 pm","hitpoints":6,"size":"Medium","sizeandtype":"Borais are Medium undead, but they do not gain normal undead immunities.","tags":[],"type":"undead"}}
 ---
 
 

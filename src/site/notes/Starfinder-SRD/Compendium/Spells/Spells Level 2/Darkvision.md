@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/spells/spells-level-2/darkvision/","dg-note-properties":{"aliases":null,"Level":2,"Mystic":"X","NoteType":"Spell","Precog":null,"tags":null,"Technomancer":"X","Witchwarper":null}}
+{"dg-publish":true,"dg-path":"Rules/Spells/Spells Level 2/Darkvision.md","permalink":"/rules/spells/spells-level-2/darkvision/","dg-note-properties":{"aliases":null,"Level":2,"Mystic":"X","NoteType":"Spell","Precog":null,"tags":null,"Technomancer":"X","Witchwarper":null}}
 ---
 
 

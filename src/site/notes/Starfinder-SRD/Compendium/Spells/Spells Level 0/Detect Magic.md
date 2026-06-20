@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/spells/spells-level-0/detect-magic/","dg-note-properties":{"aliases":null,"Level":0,"Mystic":"X","NoteType":"Spell","Precog":"X","tags":null,"Technomancer":"X","Witchwarper":"X"}}
+{"dg-publish":true,"dg-path":"Rules/Spells/Spells Level 0/Detect Magic.md","permalink":"/rules/spells/spells-level-0/detect-magic/","dg-note-properties":{"aliases":null,"Level":0,"Mystic":"X","NoteType":"Spell","Precog":"X","tags":null,"Technomancer":"X","Witchwarper":"X"}}
 ---
 
 # Detect Magic

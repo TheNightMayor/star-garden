@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/vehicle-mechanics/custom-vehicles/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Vehicle Mechanics/Custom Vehicles.md","permalink":"/rules/vehicle-mechanics/custom-vehicles/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

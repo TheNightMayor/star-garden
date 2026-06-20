@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/ability-damage/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Ability Damage.md","permalink":"/rules/combat-mechanics/ability-damage/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

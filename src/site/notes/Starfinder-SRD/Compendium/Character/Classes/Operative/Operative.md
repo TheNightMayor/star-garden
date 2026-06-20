@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/classes/operative/operative/","hide":true,"dg-note-properties":{"cssclasses":null,"aliases":["operative","operatives","Operatives","Operative's","operative's"],"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Character/Classes/Operative/Operative.md","permalink":"/rules/character/classes/operative/operative/","hide":true,"dg-note-properties":{"cssclasses":null,"aliases":["operative","operatives","Operatives","Operative's","operative's"],"tags":null}}
 ---
 
 

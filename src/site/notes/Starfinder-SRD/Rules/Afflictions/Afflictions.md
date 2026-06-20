@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/afflictions/afflictions/","dg-note-properties":{"cssclasses":null,"aliases":[],"tags":[]}}
+{"dg-publish":true,"dg-path":"Rules/Afflictions/Afflictions.md","permalink":"/rules/afflictions/afflictions/","dg-note-properties":{"cssclasses":null,"aliases":[],"tags":[]}}
 ---
 
 

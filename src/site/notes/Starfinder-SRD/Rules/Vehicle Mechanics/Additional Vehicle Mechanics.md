@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/vehicle-mechanics/additional-vehicle-mechanics/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Vehicle Mechanics/Additional Vehicle Mechanics.md","permalink":"/rules/vehicle-mechanics/additional-vehicle-mechanics/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

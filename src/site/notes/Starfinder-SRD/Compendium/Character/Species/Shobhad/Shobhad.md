@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/shobhad/shobhad/","dg-note-properties":{"abilitymodifiers":"+4 Str, -2 Int","blurb":"[shobhad.png](/img/user/Images/Aliens/Species/Shobhad/Shobhad.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:18 pm","hitpoints":6,"size":"Large","sizeandtype":"Shobhads are Large monstrous humanoids with space and reach of 10 feet.","source":"Alien Archive","tags":[],"type":"monstrous humanoid","aliases":["shobhad-neh"]}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Shobhad/Shobhad.md","permalink":"/rules/character/species/shobhad/shobhad/","dg-note-properties":{"abilitymodifiers":"+4 Str, -2 Int","blurb":"[shobhad.png](/img/user/Images/Aliens/Species/Shobhad/Shobhad.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:18 pm","hitpoints":6,"size":"Large","sizeandtype":"Shobhads are Large monstrous humanoids with space and reach of 10 feet.","source":"Alien Archive","tags":[],"type":"monstrous humanoid","aliases":["shobhad-neh"]}}
 ---
 
 

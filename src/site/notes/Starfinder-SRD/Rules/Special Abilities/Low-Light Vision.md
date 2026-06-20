@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/special-abilities/low-light-vision/","dg-note-properties":{"aliases":[],"tags":[]}}
+{"dg-publish":true,"dg-path":"Rules/Special Abilities/Low-Light Vision.md","permalink":"/rules/special-abilities/low-light-vision/","dg-note-properties":{"aliases":[],"tags":[]}}
 ---
 
 

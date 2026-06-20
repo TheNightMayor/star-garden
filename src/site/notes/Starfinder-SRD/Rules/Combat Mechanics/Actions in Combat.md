@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/actions-in-combat/","dg-note-properties":{"aliases":[],"tags":[]}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Actions in Combat.md","permalink":"/rules/combat-mechanics/actions-in-combat/","dg-note-properties":{"aliases":[],"tags":[]}}
 ---
 
 

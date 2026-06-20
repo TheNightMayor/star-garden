@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/threats/dominion-of-the-black/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Infosphere/History/THREATS/DOMINION OF THE BLACK.md","permalink":"/infosphere/history/threats/dominion-of-the-black/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

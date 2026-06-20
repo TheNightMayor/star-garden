@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/special-properties-weapons/special-properties-weapons/","dg-note-properties":{"aliases":[],"tags":[]}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Special Properties, Weapons/Special Properties, Weapons.md","permalink":"/rules/combat-mechanics/special-properties-weapons/special-properties-weapons/","dg-note-properties":{"aliases":[],"tags":[]}}
 ---
 
 

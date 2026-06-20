@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/classes/soldier/fighting-styles/farshot/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Character/Classes/Soldier/Fighting Styles/Farshot.md","permalink":"/rules/character/classes/soldier/fighting-styles/farshot/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

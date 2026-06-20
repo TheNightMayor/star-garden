@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/combat-mechanics/additional-movement-types/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Combat Mechanics/Additional Movement Types.md","permalink":"/rules/combat-mechanics/additional-movement-types/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

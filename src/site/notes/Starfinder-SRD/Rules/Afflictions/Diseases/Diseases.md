@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/afflictions/diseases/diseases/","dg-note-properties":{"cssclasses":null,"aliases":[],"tags":[]}}
+{"dg-publish":true,"dg-path":"Rules/Afflictions/Diseases/Diseases.md","permalink":"/rules/afflictions/diseases/diseases/","dg-note-properties":{"cssclasses":null,"aliases":[],"tags":[]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/vesk/vesk/","dg-note-properties":{"abilitymodifiers":"+2 Str, +2 Con, -2 Int","blurb":"[vesk.png](/img/user/Images/Aliens/Species/Vesk/Vesk.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:19 pm","hitpoints":6,"section":"core","size":"Medium","sizeandtype":"Vesk are Medium humanoids with the vesk subtype.","tags":[],"type":"humanoid (vesk)","aliases":["vesk's","vesk"],"portrait":"Vesk-Card-Portrait.jpg","stats":"Vesk-Card-Stats.jpg"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Vesk/Vesk.md","permalink":"/rules/character/species/vesk/vesk/","dg-note-properties":{"abilitymodifiers":"+2 Str, +2 Con, -2 Int","blurb":"[vesk.png](/img/user/Images/Aliens/Species/Vesk/Vesk.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:19 pm","hitpoints":6,"section":"core","size":"Medium","sizeandtype":"Vesk are Medium humanoids with the vesk subtype.","tags":[],"type":"humanoid (vesk)","aliases":["vesk's","vesk"],"portrait":"Vesk-Card-Portrait.jpg","stats":"Vesk-Card-Stats.jpg"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/gnome/gnome/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Con, +2 Cha, -2 Str (Feychild) or +2 Con, +2 Int, -2 Str (Bleachling)","blurb":"[Gnome-Blurb.png](/img/user/Images/Aliens/Species/Gnome/Gnome-Blurb.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:15 pm","hitpoints":4,"section":"legacy","size":"Small","sizeandtype":"Gnomes are Small humanoids with the gnome subtype.","tags":[],"type":"humanoid (gnome)"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Gnome/Gnome.md","permalink":"/rules/character/species/gnome/gnome/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Con, +2 Cha, -2 Str (Feychild) or +2 Con, +2 Int, -2 Str (Bleachling)","blurb":"[Gnome-Blurb.png](/img/user/Images/Aliens/Species/Gnome/Gnome-Blurb.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:15 pm","hitpoints":4,"section":"legacy","size":"Small","sizeandtype":"Gnomes are Small humanoids with the gnome subtype.","tags":[],"type":"humanoid (gnome)"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/skittermander/skittermander/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Dex, +2 Cha, -2 Int","blurb":"[skittermander.png](/img/user/Images/Aliens/Species/Skittermander/Skittermander.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:18 pm","hitpoints":2,"size":"Small","sizeandtype":"Skittermanders are Small humanoids with the skittermander subtype.","tags":[],"type":"humanoid (skittermander)"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Skittermander/Skittermander.md","permalink":"/rules/character/species/skittermander/skittermander/","dg-note-properties":{"aliases":[],"abilitymodifiers":"+2 Dex, +2 Cha, -2 Int","blurb":"[skittermander.png](/img/user/Images/Aliens/Species/Skittermander/Skittermander.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:18 pm","hitpoints":2,"size":"Small","sizeandtype":"Skittermanders are Small humanoids with the skittermander subtype.","tags":[],"type":"humanoid (skittermander)"}}
 ---
 
 

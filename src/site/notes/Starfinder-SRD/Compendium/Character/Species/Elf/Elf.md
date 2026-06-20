@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/elf/elf/","dg-note-properties":{"abilitymodifiers":"+2 Dex, +2 Int, -2 Con","blurb":"[Elf.png](/img/user/Images/Aliens/Species/Elf/Elf.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:14 pm","hitpoints":4,"section":"legacy","size":"Medium","sizeandtype":"Elves are Medium humanoids with the elf subtype.","tags":[],"type":"humanoid (elf)","aliases":["Elves","elf’s","elves’","Elf"]}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Elf/Elf.md","permalink":"/rules/character/species/elf/elf/","dg-note-properties":{"abilitymodifiers":"+2 Dex, +2 Int, -2 Con","blurb":"[Elf.png](/img/user/Images/Aliens/Species/Elf/Elf.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:14 pm","hitpoints":4,"section":"legacy","size":"Medium","sizeandtype":"Elves are Medium humanoids with the elf subtype.","tags":[],"type":"humanoid (elf)","aliases":["Elves","elf’s","elves’","Elf"]}}
 ---
 
 

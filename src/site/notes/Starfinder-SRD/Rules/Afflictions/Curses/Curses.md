@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/afflictions/curses/curses/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Afflictions/Curses/Curses.md","permalink":"/rules/afflictions/curses/curses/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

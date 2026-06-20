@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/shirren/shirren/","dg-note-properties":{"aliases":["shirrens","shirren's","shirrens'"],"abilitymodifiers":"+2 Con, +2 Wis, -2 Cha","blurb":"[Shirren.png](/img/user/Images/Aliens/Species/Shirren/Shirren.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:18 pm","hitpoints":6,"section":"core","size":"Medium","sizeandtype":"Shirrens are Medium humanoids with the shirren subtype.","tags":[],"type":"humanoid (shirren)","stats":"Shirren-Card-Stats.jpg","portrait":"Shirren-Card-Portrait.jpg"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Shirren/Shirren.md","permalink":"/rules/character/species/shirren/shirren/","dg-note-properties":{"aliases":["shirrens","shirren's","shirrens'"],"abilitymodifiers":"+2 Con, +2 Wis, -2 Cha","blurb":"[Shirren.png](/img/user/Images/Aliens/Species/Shirren/Shirren.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:18 pm","hitpoints":6,"section":"core","size":"Medium","sizeandtype":"Shirrens are Medium humanoids with the shirren subtype.","tags":[],"type":"humanoid (shirren)","stats":"Shirren-Card-Stats.jpg","portrait":"Shirren-Card-Portrait.jpg"}}
 ---
 
 

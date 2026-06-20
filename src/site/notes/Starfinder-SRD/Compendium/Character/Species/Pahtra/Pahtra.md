@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/pahtra/pahtra/","dg-note-properties":{"abilitymodifiers":"+2 Dex, +2 Cha, -2 Str","aliases":[],"blurb":"[Pahtra.png](/img/user/Images/Aliens/Species/Pahtra/Pahtra.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:17 pm","hitpoints":4,"size":"Medium","sizeandtype":"Pahtras are Medium humanoids with the pahtra subtype.","tags":[],"type":"humanoid (pahtra)"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Pahtra/Pahtra.md","permalink":"/rules/character/species/pahtra/pahtra/","dg-note-properties":{"abilitymodifiers":"+2 Dex, +2 Cha, -2 Str","aliases":[],"blurb":"[Pahtra.png](/img/user/Images/Aliens/Species/Pahtra/Pahtra.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:17 pm","hitpoints":4,"size":"Medium","sizeandtype":"Pahtras are Medium humanoids with the pahtra subtype.","tags":[],"type":"humanoid (pahtra)"}}
 ---
 
 >[!infobox|txt-s n-th]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/raxilite/raxilite/","dg-note-properties":{"abilitymodifiers":"+2 Dex, +2 Int, +2 Cha, -4 Str","aliases":[],"blurb":"[Raxilite-Blurb.png](/img/user/Images/Aliens/Species/Raxilite/Raxilite-Blurb.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:17 pm","hitpoints":2,"size":"Tiny","sizeandtype":"Raxilites are Tiny plants.","tags":[],"type":"plant"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Raxilite/Raxilite.md","permalink":"/rules/character/species/raxilite/raxilite/","dg-note-properties":{"abilitymodifiers":"+2 Dex, +2 Int, +2 Cha, -4 Str","aliases":[],"blurb":"[Raxilite-Blurb.png](/img/user/Images/Aliens/Species/Raxilite/Raxilite-Blurb.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:17 pm","hitpoints":2,"size":"Tiny","sizeandtype":"Raxilites are Tiny plants.","tags":[],"type":"plant"}}
 ---
 
 

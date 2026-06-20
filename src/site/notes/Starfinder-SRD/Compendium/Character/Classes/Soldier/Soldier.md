@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/classes/soldier/soldier/","dg-note-properties":{"aliases":["soldier","soldiers","soldier's","Soldiers","Soldier's"],"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Character/Classes/Soldier/Soldier.md","permalink":"/rules/character/classes/soldier/soldier/","dg-note-properties":{"aliases":["soldier","soldiers","soldier's","Soldiers","Soldier's"],"tags":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/spells/spells-level-1/detect-radiation/","dg-note-properties":{"aliases":null,"Level":1,"Mystic":"X","NoteType":"Spell","Precog":"X","tags":null,"Technomancer":"X","Witchwarper":null}}
+{"dg-publish":true,"dg-path":"Rules/Spells/Spells Level 1/Detect Radiation.md","permalink":"/rules/spells/spells-level-1/detect-radiation/","dg-note-properties":{"aliases":null,"Level":1,"Mystic":"X","NoteType":"Spell","Precog":"X","tags":null,"Technomancer":"X","Witchwarper":null}}
 ---
 
 

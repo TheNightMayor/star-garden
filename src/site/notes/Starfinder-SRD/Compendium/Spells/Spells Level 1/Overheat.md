@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/spells/spells-level-1/overheat/","dg-note-properties":{"aliases":null,"Level":1,"Mystic":null,"NoteType":"Spell","Precog":"X","tags":null,"Technomancer":"X","Witchwarper":"X"}}
+{"dg-publish":true,"dg-path":"Rules/Spells/Spells Level 1/Overheat.md","permalink":"/rules/spells/spells-level-1/overheat/","dg-note-properties":{"aliases":null,"Level":1,"Mystic":null,"NoteType":"Spell","Precog":"X","tags":null,"Technomancer":"X","Witchwarper":"X"}}
 ---
 
 

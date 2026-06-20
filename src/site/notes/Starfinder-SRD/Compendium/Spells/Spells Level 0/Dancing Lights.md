@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/spells/spells-level-0/dancing-lights/","dg-note-properties":{"aliases":null,"Level":0,"Mystic":null,"NoteType":"Spell","Precog":null,"tags":null,"Technomancer":"X","Witchwarper":"X"}}
+{"dg-publish":true,"dg-path":"Rules/Spells/Spells Level 0/Dancing Lights.md","permalink":"/rules/spells/spells-level-0/dancing-lights/","dg-note-properties":{"aliases":null,"Level":0,"Mystic":null,"NoteType":"Spell","Precog":null,"tags":null,"Technomancer":"X","Witchwarper":"X"}}
 ---
 
 

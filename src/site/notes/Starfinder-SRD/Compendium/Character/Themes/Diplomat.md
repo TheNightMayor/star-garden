@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/themes/diplomat/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
+{"dg-publish":true,"dg-path":"Rules/Character/Themes/Diplomat.md","permalink":"/rules/character/themes/diplomat/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null}}
 ---
 
 

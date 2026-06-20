@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/formian/formian/","dg-note-properties":{"abilitymodifiers":"+2 Str, +2 Con, -2 Wis","aliases":[],"blurb":"[Formian - Copy.png](/img/user/Images/Aliens/Species/Formian/Formian%20-%20Copy.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:14 pm","hitpoints":4,"size":"Medium","sizeandtype":"Formians are Medium monstrous humanoids.","tags":[],"type":"monstrous humanoid","portrait":"Formian-Card-Portrait.jpg","stats":"Formian-Card-Stats.jpg"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Formian/Formian.md","permalink":"/rules/character/species/formian/formian/","dg-note-properties":{"abilitymodifiers":"+2 Str, +2 Con, -2 Wis","aliases":[],"blurb":"[Formian - Copy.png](/img/user/Images/Aliens/Species/Formian/Formian%20-%20Copy.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:14 pm","hitpoints":4,"size":"Medium","sizeandtype":"Formians are Medium monstrous humanoids.","tags":[],"type":"monstrous humanoid","portrait":"Formian-Card-Portrait.jpg","stats":"Formian-Card-Stats.jpg"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/additional-mechanics/cargo/","dg-note-properties":{"aliases":[],"tags":[]}}
+{"dg-publish":true,"dg-path":"Rules/Additional Mechanics/Cargo.md","permalink":"/rules/additional-mechanics/cargo/","dg-note-properties":{"aliases":[],"tags":[]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/activites/crafting/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Activites/Crafting.md","permalink":"/rules/activites/crafting/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

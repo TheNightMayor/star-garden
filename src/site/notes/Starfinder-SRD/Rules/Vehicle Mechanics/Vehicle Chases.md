@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/vehicle-mechanics/vehicle-chases/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Vehicle Mechanics/Vehicle Chases.md","permalink":"/rules/vehicle-mechanics/vehicle-chases/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

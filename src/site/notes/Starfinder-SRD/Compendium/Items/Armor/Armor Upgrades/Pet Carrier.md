@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/armor/armor-upgrades/pet-carrier/","dg-note-properties":{"aliases":null,"ArmorType":"any","Item":null,"NoteType":"Armor","price":100,"Slots":1,"tags":null,"Type":"Armor Upgrades"}}
+{"dg-publish":true,"dg-path":"Rules/Items/Armor/Armor Upgrades/Pet Carrier.md","permalink":"/rules/items/armor/armor-upgrades/pet-carrier/","dg-note-properties":{"aliases":null,"ArmorType":"any","Item":null,"NoteType":"Armor","price":100,"Slots":1,"tags":null,"Type":"Armor Upgrades"}}
 ---
 
 

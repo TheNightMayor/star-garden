@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/activites/downtime-activities/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Activites/Downtime Activities.md","permalink":"/rules/activites/downtime-activities/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

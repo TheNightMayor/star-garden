@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/spells/spells-level-3/explosive-blast/","dg-note-properties":{"aliases":null,"Level":3,"Mystic":null,"NoteType":"Spell","Precog":"X","tags":null,"Technomancer":"X","Witchwarper":"X"}}
+{"dg-publish":true,"dg-path":"Rules/Spells/Spells Level 3/Explosive Blast.md","permalink":"/rules/spells/spells-level-3/explosive-blast/","dg-note-properties":{"aliases":null,"Level":3,"Mystic":null,"NoteType":"Spell","Precog":"X","tags":null,"Technomancer":"X","Witchwarper":"X"}}
 ---
 
 

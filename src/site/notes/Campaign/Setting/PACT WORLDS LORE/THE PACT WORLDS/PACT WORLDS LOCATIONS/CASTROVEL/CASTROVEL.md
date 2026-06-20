@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/setting/pact-worlds-lore/the-pact-worlds/pact-worlds-locations/castrovel/castrovel/","title":"The Wild","dg-note-properties":{"aliases":[],"tags":[],"cssclasses":null,"name":null,"title":"The Wild","diameter":"×1","mass":"×1","gravity":"×1","atmosphere":"Normal","day":"1 day","year":"1/2 year"}}
+{"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/THE PACT WORLDS/PACT WORLDS LOCATIONS/CASTROVEL/CASTROVEL.md","permalink":"/infosphere/history/pact-worlds-lore/the-pact-worlds/pact-worlds-locations/castrovel/castrovel/","title":"The Wild","dg-note-properties":{"aliases":[],"tags":[],"cssclasses":null,"name":null,"title":"The Wild","diameter":"×1","mass":"×1","gravity":"×1","atmosphere":"Normal","day":"1 day","year":"1/2 year"}}
 ---
 
 ![city2.png](/img/user/Images/Art/city2.png)

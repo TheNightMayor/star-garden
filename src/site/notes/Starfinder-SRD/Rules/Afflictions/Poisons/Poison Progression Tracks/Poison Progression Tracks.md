@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/rules/afflictions/poisons/poison-progression-tracks/poison-progression-tracks/","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Rules/Afflictions/Poisons/Poison Progression Tracks/Poison Progression Tracks.md","permalink":"/rules/afflictions/poisons/poison-progression-tracks/poison-progression-tracks/","dg-note-properties":{}}
 ---
 
 

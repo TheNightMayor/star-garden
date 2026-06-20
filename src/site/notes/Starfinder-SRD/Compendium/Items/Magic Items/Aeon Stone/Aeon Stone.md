@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/magic-items/aeon-stone/aeon-stone/","dg-note-properties":{"aliases":null,"price":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Items/Magic Items/Aeon Stone/Aeon Stone.md","permalink":"/rules/items/magic-items/aeon-stone/aeon-stone/","dg-note-properties":{"aliases":null,"price":null,"tags":null}}
 ---
 
 

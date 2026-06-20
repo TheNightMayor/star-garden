@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/ysoki/ysoki/","dg-note-properties":{"abilitymodifiers":"+2 Dex, +2 Int, -2 Str","aliases":["ratfolk"],"blurb":"[ysoki.png](/img/user/Images/Aliens/Species/Ysoki/Ysoki.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:20 pm","hitpoints":2,"section":"core","size":"Small","sizeandtype":"Ysoki are Small humanoids with the ysoki subtype.","tags":[],"type":"humanoid (ysoki)","stats":"Ysoki-Card-Stats.jpg","portrait":"Ysoki-Card-Portrait.jpg"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Ysoki/Ysoki.md","permalink":"/rules/character/species/ysoki/ysoki/","dg-note-properties":{"abilitymodifiers":"+2 Dex, +2 Int, -2 Str","aliases":["ratfolk"],"blurb":"[ysoki.png](/img/user/Images/Aliens/Species/Ysoki/Ysoki.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:20 pm","hitpoints":2,"section":"core","size":"Small","sizeandtype":"Ysoki are Small humanoids with the ysoki subtype.","tags":[],"type":"humanoid (ysoki)","stats":"Ysoki-Card-Stats.jpg","portrait":"Ysoki-Card-Portrait.jpg"}}
 ---
 
 

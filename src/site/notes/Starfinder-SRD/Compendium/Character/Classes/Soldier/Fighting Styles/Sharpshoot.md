@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/classes/soldier/fighting-styles/sharpshoot/","dg-note-properties":{"aliases":null,"tags":null}}
+{"dg-publish":true,"dg-path":"Rules/Character/Classes/Soldier/Fighting Styles/Sharpshoot.md","permalink":"/rules/character/classes/soldier/fighting-styles/sharpshoot/","dg-note-properties":{"aliases":null,"tags":null}}
 ---
 
 

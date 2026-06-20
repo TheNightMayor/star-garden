@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/items/armor/heavy-armor/aeon-guard-battle-dress/aeon-guard-battle-dress/","dg-note-properties":{"cssclasses":null,"aliases":[],"NoteType":"Armor","price":null,"tags":[],"Type":"Heavy Armor","variants":[{"name":"Battle Dress (Command)","Level":10,"Price":18750,"Category":"Heavy","EAC":"+15","KAC":"+17","Bulk":3},{"name":"Battle Dress (Trooper)","Level":3,"Price":1650,"Category":"Heavy","EAC":"+5","KAC":"+7","Bulk":3},{"name":"Specops Armor","Level":7,"Price":7500,"Category":"Light","EAC":"+7","KAC":"+8","Bulk":1}]}}
+{"dg-publish":true,"dg-path":"Rules/Items/Armor/Heavy Armor/Aeon Guard Battle Dress/Aeon Guard Battle Dress.md","permalink":"/rules/items/armor/heavy-armor/aeon-guard-battle-dress/aeon-guard-battle-dress/","dg-note-properties":{"cssclasses":null,"aliases":[],"NoteType":"Armor","price":null,"tags":[],"Type":"Heavy Armor","variants":[{"name":"Battle Dress (Command)","Level":10,"Price":18750,"Category":"Heavy","EAC":"+15","KAC":"+17","Bulk":3},{"name":"Battle Dress (Trooper)","Level":3,"Price":1650,"Category":"Heavy","EAC":"+5","KAC":"+7","Bulk":3},{"name":"Specops Armor","Level":7,"Price":7500,"Category":"Light","EAC":"+7","KAC":"+8","Bulk":1}]}}
 ---
 
 

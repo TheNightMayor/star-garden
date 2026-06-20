@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/starfinder-srd/compendium/character/species/orc/orc/","dg-note-properties":{"aliases":null,"abilitymodifiers":"+4 Str, –2 Cha","blurb":"[Orc.png](/img/user/Images/Aliens/Species/Orc/Orc.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:17 pm","hitpoints":6,"section":"legacy","size":"Medium","sizeandtype":"Orcs are Medium humanoids with the orc subtype.","tags":[],"type":"humanoid (orc)"}}
+{"dg-publish":true,"dg-path":"Rules/Character/Species/Orc/Orc.md","permalink":"/rules/character/species/orc/orc/","dg-note-properties":{"aliases":null,"abilitymodifiers":"+4 Str, –2 Cha","blurb":"[Orc.png](/img/user/Images/Aliens/Species/Orc/Orc.png)","cssclasses":null,"date created":"Tuesday, August 22nd 2023, 4:01:13 pm","date modified":"Wednesday, August 21st 2024, 7:56:17 pm","hitpoints":6,"section":"legacy","size":"Medium","sizeandtype":"Orcs are Medium humanoids with the orc subtype.","tags":[],"type":"humanoid (orc)"}}
 ---
 
 
