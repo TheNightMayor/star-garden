@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/property-of-ej-corp/","hide":true,"tags":["gardenEntry"],"dg-note-properties":{"aliases":[],"tags":["gardenEntry"],"cssclasses":null,"title":""}}
+{"dg-publish":true,"permalink":"/property-of-ej-corp/","hide":true,"tags":["gardenEntry"],"dg-note-properties":{"aliases":[],"tags":["gardenEntry"],"cssclasses":null}}
 ---
 
 # PROPERTY OF EJ CORP
