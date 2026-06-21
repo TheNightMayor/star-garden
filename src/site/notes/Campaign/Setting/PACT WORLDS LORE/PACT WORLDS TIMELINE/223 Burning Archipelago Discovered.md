@@ -2,4 +2,5 @@
 {"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/PACT WORLDS TIMELINE/223 Burning Archipelago Discovered.md","permalink":"/infosphere/history/pact-worlds-lore/pact-worlds-timeline/223-burning-archipelago-discovered/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null,"aat-event-start-date":223,"aat-render-enabled":true,"aat-event-title":"Burning Archipelago Discovered","timelines":["Pact Worlds Timeline"]}}
 ---
 
+# Burning Archipelago Discovered
 Roughly a century ago, Sarenite scholars orbiting and observing the star discovered an anomaly: a collection of inexplicable and deserted bubble-cities, tethered together by magic and somehow floating unburnt within the sun’s flaming seas. What’s more, as they approached, the Sarenites found a magical tunnel opening miraculously in the sun’s fire, allowing them to approach the cities without being destroyed. Though it’s still not known who built the cities, how they were constructed, or why they were abandoned—mysteries scholars and engineers desperately study—the Burning Archipelago quickly became the church’s most sacred settlement.

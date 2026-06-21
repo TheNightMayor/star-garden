@@ -3,5 +3,5 @@
 ---
 
 
-
-Eox’s Bone Sages launch the Magefire Assault against Absalom Station.  It fails due to the station's powerful defensive batteries.
+# Magefire Assault
+ Eox’s Bone Sages launch the Magefire Assault against Absalom Station.  It fails due to the station's powerful defensive batteries.

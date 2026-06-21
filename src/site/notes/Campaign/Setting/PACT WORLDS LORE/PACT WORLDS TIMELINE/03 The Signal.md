@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Infosphere/History/PACT WORLDS LORE/PACT WORLDS TIMELINE/03 The Signal.md","permalink":"/infosphere/history/pact-worlds-lore/pact-worlds-timeline/03-the-signal/","dg-note-properties":{"aliases":null,"tags":null,"cssclasses":null,"aat-event-start-date":3,"aat-render-enabled":true,"aat-event-title":"The Signal","timelines":["Pact Worlds Timeline"]}}
 ---
 
-
+# The Signal
 
 Triune reveals itself and grants the secret of Drift travel to the universe— particularly the worlds of the Golarion System.
 
